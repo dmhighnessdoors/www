@@ -12,7 +12,7 @@
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
     <title>Highness doors | Home</title>
-    <meta name="description" content="Showcasing the best of Doors designs whole over Kerala. We can also custom make our products to suit any size and configuration to meet our client requirements.">
+    <meta name="description" content="HIGHNESS the name of quality is aimed towards designing and manufacturing of highest quality Doors. We can also custom make our products to suit any size and configuration to meet our client requirements.">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,7 +23,7 @@
     
     <meta name="DC.Publisher" content="Highness FRP Industries">
     <meta name="DC.Date" scheme="ISO8601" content="2017-12-11T04:51:59.025Z">
-    <meta name="DC.Description" xml:lang="EN" content="HIGHNESS the "name of quality" is aimed towards designing and manufacturing of highest quality Doors">
+    <meta name="DC.Description" xml:lang="EN" content="HIGHNESS the name of quality is aimed towards designing and manufacturing of highest quality Doors.We can also custom make our products to suit any size and configuration to meet our client requirements.">
     <meta name="DC.Rights" content="Highness FRP Industries">
     <meta name="DC.Language" content="en-US">
 
