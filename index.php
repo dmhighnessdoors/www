@@ -95,7 +95,7 @@
                             <div class="top_bar_left clearfix">
                                 <!-- Logo-->
                                 <div class="logo">
-                                    <a id="logo" href="index.html" title="BeTheme - Best Html Theme Ever"><img class="scale-with-grid" src="images/logo1.png" alt="BeTheme - Best Html Theme Ever" />
+                                    <a id="logo" href="/" alt="Higness doors logo" title="Add Quality & Style to Your Home With HIGHNESS"><img class="scale-with-grid" src="images/hd/logo.jpg" alt="BeTheme - Best Html Theme Ever" />
                                     </a>
                                 </div>
                                 <!-- Main menu-->
@@ -1535,7 +1535,7 @@
                 var retinaEl = jQuery("#logo img");
                 var retinaLogoW = retinaEl.width();
                 var retinaLogoH = retinaEl.height();
-                retinaEl.attr("src", "images/logo-retina.png").width(retinaLogoW).height(retinaLogoH)
+                retinaEl.attr("src", "images/hd/logo.jpg").width(retinaLogoW).height(retinaLogoH)
             }
         });
     </script>
