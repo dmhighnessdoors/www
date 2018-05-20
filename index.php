@@ -103,11 +103,11 @@
                                     <nav id="menu">
                                         <ul id="menu-main-menu" class="menu">
 
-                                            <li>
-                                                <a href="features-color-skins.html"><span>Home</span></a>
-                                            </li>
                                             <li class="current-menu-item">
-                                                <a href="home-modern-header.html"><span>About Us</span></a>
+                                                <a href="/"><span>Home</span></a>
+                                            </li>
+                                            <li>
+                                                <a href="/about-us"><span>About Us</span></a>
                                                 <ul class="sub-menu">
                                                     <li>
                                                         <a href="home-modern-header.html"><span>Company</span></a>
@@ -121,253 +121,23 @@
                                                 </ul>
                                             </li>
                                             <li>
-                                                <a href="typography.html"><span>Products</span></a>
-                                                <ul class="sub-menu mfn-megamenu mfn-megamenu-5 mfn-megamenu-bg flv_menu_bg">
-                                                    <li class="mfn-megamenu-cols-5">
-                                                        <a class="mfn-megamenu-title" href="typography.html"><span>Typography</span></a>
-                                                        <ul class="sub-menu mfn-megamenu mfn-megamenu-5 mfn-megamenu-bg flv_menu_bg">
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#basic"><span>Basic</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#dropcap"><span>Dropcap &#038; Highlight</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#tooltip"><span>Tooltip &#038; Blockquote</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#buttons"><span>Buttons</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#fancylinks"><span>Fancy links</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#image"><span>Image frames</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#forms"><span>Forms</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#forms"><span>Icon block</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#dividers"><span>Dividers</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#googlefonts"><span>Google fonts</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#alerts"><span>Alerts</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="typography.html#lists"><span>Lists &#038; Bullets lists</span></a>
-                                                            </li>
-                                                        </ul>
+                                                <a href="/products"><span>Products</span></a>
+                                                <ul class="sub-menu">
+                                                    <li>
+                                                        <a href="home-modern-header.html"><span>Entrance Doors</span></a>
                                                     </li>
-                                                    <li class="mfn-megamenu-cols-5">
-                                                        <a class="mfn-megamenu-title" href="boxes-infographics.html"><span>Boxes &#038; Infographics</span></a>
-                                                        <ul class="sub-menu mfn-megamenu mfn-megamenu-5 mfn-megamenu-bg flv_menu_bg">
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#iconbox"><span>Icon box</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#flatbox"><span>Flat box</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#hoverbox"><span>Hover box</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#photobox"><span>Photo box</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#slidingbox"><span>Sliding box</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#articlebox"><span>Article box</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#promobox"><span>Promo box</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#trailerbox"><span>Trailer box</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#ideabox"><span>Idea box</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#quickfacts"><span>Quick facts</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#counter"><span>Counter &#038; Chart</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="boxes-infographics.html#progressbar"><span>Skills</span></a>
-                                                            </li>
-                                                        </ul>
+                                                    <li>
+                                                        <a href="home-classic-header.html"><span>Kitchen Doors</span></a>
                                                     </li>
-                                                    <li class="mfn-megamenu-cols-5">
-                                                        <a class="mfn-megamenu-title" href="content-blocks.html"><span>Content blocks</span></a>
-                                                        <ul class="sub-menu mfn-megamenu mfn-megamenu-5 mfn-megamenu-bg flv_menu_bg">
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#tabs"><span>Tabs</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#accordion"><span>Accordion</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#accordion"><span>Toggle</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#table"><span>Table</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#faq"><span>FAQ</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#features"><span>Features</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#lists"><span>Lists</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#pricingbox"><span>Pricing boxes</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#pricingtable"><span>Pricing tables</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#contentslider"><span>Content slider</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#offerslider"><span>Offer slider</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-blocks.html#offersliderthumb"><span>Offer slider thumb</span></a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="mfn-megamenu-cols-5">
-                                                        <a class="mfn-megamenu-title" href="content-elements.html"><span>Content elements</span></a>
-                                                        <ul class="sub-menu mfn-megamenu mfn-megamenu-5 mfn-megamenu-bg flv_menu_bg">
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#timeline"><span>Timeline</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#contentlink"><span>Content link</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#howitworks"><span>How it works</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#iconbar"><span>Icon &#038; Social bar</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#getintouch"><span>Get in touch</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#getintouch"><span>Opening hours</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#getintouch"><span>Infobox</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#mapbig"><span>Map with address box</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#team"><span>Team &#038; Team list</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#fancyheading"><span>Fancy heading</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#calltoaction"><span>Call to action</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="content-elements.html#fancydivider"><span>Fancy divider</span></a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="mfn-megamenu-cols-5">
-                                                        <a class="mfn-megamenu-title" href="loops.html"><span>Loops</span></a>
-                                                        <ul class="sub-menu mfn-megamenu mfn-megamenu-5 mfn-megamenu-bg flv_menu_bg">
-                                                            <li class="scroll ">
-                                                                <a href="loops.html#blogslider"><span>Blog slider</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="loops.html#shopslider"><span>Shop slider</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="loops.html#portfolioslider"><span>Portfolio slider</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="loops.html#portfoliogrid"><span>Portfolio grid</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="loops.html#clients"><span>Clients</span></a>
-                                                            </li>
-                                                            <li class="scroll ">
-                                                                <a href="loops.html#testimonials"><span>Testimonials</span></a>
-                                                            </li>
-                                                        </ul>
+                                                    <li>
+                                                        <a href="index-bar.html"><span>Bedroom Doors</span></a>
                                                     </li>
                                                 </ul>
                                             </li>
                                         
                                             <li>
-                                                <a href="blog-sidebar-classic.html"><span>Contact Us</span></a>
-                                                <ul class="sub-menu">
-                                                    <li>
-                                                        <a href="blog-full-classic.html"><span>Full Width</span></a>
-                                                        <ul class="sub-menu">
-                                                            <li>
-                                                                <a href="blog-full-classic.html"><span>Classic</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="blog-full-masonry.html"><span>Masonry</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="blog-full-timeline.html"><span>Timeline</span></a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li>
-                                                        <a href="blog-sidebar-classic.html"><span>Blog</span></a>
-                                                        <ul class="sub-menu">
-                                                            <li>
-                                                                <a href="blog-sidebar-classic.html"><span>Classic</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="blog-sidebar-masonry.html"><span>Masonry</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="blog-sidebar-timeline.html"><span>Timeline</span></a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="menu-item-object-post ">
-                                                        <a href="blog-single-content-builder.html"><span>Single Post</span></a>
-                                                        <ul class="sub-menu">
-                                                            <li class="menu-item-object-post">
-                                                                <a href="blog-single-content-builder.html"><span>Content Builder</span></a>
-                                                            </li>
-                                                            <li class="menu-item-object-post">
-                                                                <a href="blog-single-vertical-photo.html"><span>Vertical Photo</span></a>
-                                                            </li>
-                                                            <li class="menu-item-object-post">
-                                                                <a href="blog-single-blockquote.html"><span>Blockquote</span></a>
-                                                            </li>
-                                                            <li class="menu-item-object-post">
-                                                                <a href="blog-single-slideshow.html"><span>Revolution Slider</span></a>
-                                                            </li>
-                                                            <li class="menu-item-object-post">
-                                                                <a href="blog-single-html5-video.html"><span>HTML5 Video</span></a>
-                                                            </li>
-                                                            <li class="menu-item-object-post">
-                                                                <a href="blog-single-video.html"><span>YouTube / Vimeo</span></a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
+                                                <a href="/contact-us"><span>Contact Us</span></a>
+                                            
                                             </li>
                                         </ul>
                                     </nav><a class="responsive-menu-toggle" href="#"><i class="icon-menu"></i></a>
@@ -509,9 +279,9 @@
                                                         </div>
                                                     </div>
                                                     <div class="desc_wrapper">
-                                                        <h4> 240+ pre-made layouts</h4>
+                                                        <h4> COMPANY HISTORY</h4>
                                                         <div class="desc">
-                                                            We created awesome <span class="tooltip" data-tooltip="Click to scroll down"> 240+ pre-made layouts</span> .
+                                                            We created awesome <span class="tooltip" data-tooltip="Click to scroll down"></span> .
                                                             <br> Choose one of them and use for own business site.
                                                         </div>
                                                     </div>
@@ -531,7 +301,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="desc_wrapper">
-                                                        <h4>Fully customizable</h4>
+                                                        <h4>WHAT WE DO</h4>
                                                         <div class="desc">
                                                             Don`t waste your time and within minutes create
                                                             <br> your website easily. You will love it!
@@ -553,7 +323,7 @@
                                                         </div>
                                                     </div>
                                                     <div class="desc_wrapper">
-                                                        <h4>Free support &amp; updates</h4>
+                                                        <h4>OUR AIM</h4>
                                                         <div class="desc">
                                                             This theme is always updated on time.
                                                             <br> We also offer <span class="tooltip" data-tooltip="For support please visit theme forum">free support</span> for all our themes!
@@ -1245,9 +1015,7 @@
             <div class="footer_action">
                 <div class="container">
                     <!-- One full width row-->
-                    <div class="column one column_column">
-                        <a href="http://bit.ly/1M6lijQ" class="flv_footer_grey" target="_blank"><span class="flv_font_18">If you are interested in <span class="themecolor">Be|</span><span class="flv_color_white">theme</span>, do not wait and <span class="flv_color_white">BUY IT NOW!</span></span></a>
-                    </div>
+
                 </div>
             </div>
             <div class="widgets_wrapper">
@@ -1255,62 +1023,27 @@
                     <div class="one-fourth column">
                         <!-- Text Area -->
                         <aside id="text-7" class="widget widget_text">
-                            <div class="textwidget"><img src="images/logo_footer.png" alt="">
+                            <div class="textwidget"><h5>CONTACT INFORMATION</h5>
                                 <p>
-                                    <span class="big">We love who we are and we are very proud to be the part of your business</span>
+                                    <span class="big">Highness FRP Industries 5/616 C
+                                        Arackappady | Vengola P.O Perumbavoor |
+                                        Ernakulam Kerala | India Pin-683554</span>
                                 </p>
-                                <p>
-                                    Curabitur sit amet magna quam. Praesent in libero vel <span class="tooltip" data-tooltip="Quis accumsan dolor">turpis pellentesque</span> egestas sit amet vel nunc. Nunc lobortis dui neque quis.
-                                </p><a href="#" class="icon_bar icon_bar_facebook icon_bar_small"><span class="t"><i class="icon-facebook"></i></span><span class="b"><i class="icon-facebook"></i></span></a><a href="#" class="icon_bar icon_bar_google icon_bar_small"><span class="t"><i class="icon-gplus"></i></span><span class="b"><i class="icon-gplus"></i></span></a><a href="#" class="icon_bar icon_bar_twitter icon_bar_small"><span class="t"><i class="icon-twitter"></i></span><span class="b"><i class="icon-twitter"></i></span></a><a href="#" class="icon_bar icon_bar_vimeo icon_bar_small"><span class="t"><i class="icon-vimeo"></i></span><span class="b"><i class="icon-vimeo"></i></span></a><a href="#" class="icon_bar icon_bar_youtube icon_bar_small"><span class="t"><i class="icon-play"></i></span><span class="b"><i class="icon-play"></i></span></a>
+                                <a href="https://www.facebook.com/Highness-Doors-1817969171802557/" class="icon_bar icon_bar_facebook icon_bar_small"><span class="t"><i class="icon-facebook"></i></span><span class="b"><i class="icon-facebook"></i></span></a><a href="https://twitter.com/highnessdoors" class="icon_bar icon_bar_twitter icon_bar_small"><span class="t"><i class="icon-twitter"></i></span><span class="b"><i class="icon-twitter"></i></span></a>
                             </div>
                         </aside>
                     </div>
                     <div class="one-fourth column">
                         <!-- Recent Comments Area -->
-                        <aside class="widget widget_mfn_recent_comments">
-                            <h4>Recent comments</h4>
-                            <div class="Recent_comments">
-                                <ul>
-                                    <li>
-                                        <span class="date_label">March 31, 2015</span>
-                                        <p>
-                                            <i class="icon-user"></i><strong>Muffin Group</strong> commented on <a href="blog-single-content-builder.html#comment-7" title="Muffin Group | Content builder for posts">Content builder for posts</a>
-                                        </p>
-                                    </li>
-                                    <li>
-                                        <span class="date_label">March 31, 2015</span>
-                                        <p>
-                                            <i class="icon-user"></i><strong>Muffin Group</strong> commented on <a href="blog-single-content-builder.html#comment-6" title="Muffin Group | Content builder for posts">Content builder for posts</a>
-                                        </p>
-                                    </li>
-                                </ul>
-                            </div>
-                        </aside>
-                    </div>
-                    <div class="one-fourth column">
+                 
                         <!-- Recent posts -->
                         <aside class="widget widget_mfn_recent_posts">
-                            <h4>Latest posts</h4>
+                            <h5>BUSINESS HOURS</h5>
                             <div class="Recent_posts">
                                 <ul>
-                                    <li class="post ">
-                                        <a href="blog-single-content-builder.html">
-                                            <div class="photo"><img width="80" height="80" src="images/beauty_portfolio_2-80x80.jpg" class="scale-with-grid wp-post-image" alt="beauty_portfolio_2" /><span class="c">4</span>
-                                            </div>
-                                            <div class="desc">
-                                                <h6>Content builder for posts</h6><span class="date"><i class="icon-clock"></i>May 13, 2015</span>
-                                            </div>
-                                        </a>
-                                    </li>
-                                    <li class="post format-image">
-                                        <a href="blog-single-vertical-photo.html">
-                                            <div class="photo"><img width="80" height="80" src="images/blog_vertical-80x80.jpg" class="scale-with-grid wp-post-image" alt="blog_vertical" /><span class="c">0</span>
-                                            </div>
-                                            <div class="desc">
-                                                <h6>Post with vertical photo</h6><span class="date"><i class="icon-clock"></i>May 13, 2015</span>
-                                            </div>
-                                        </a>
-                                    </li>
+                                    <li>Monday to Friday: 8am to 6pm </li>
+                                    <li>Saturday: 9am to 6pm </li>
+                                    <li>Sunday: 10am to 4pm </li>
                                 </ul>
                             </div>
                         </aside>
@@ -1318,20 +1051,20 @@
                     <div class="one-fourth column">
                         <!-- Text Area -->
                         <aside id="text-8" class="widget widget_text">
-                            <h4>Some features</h4>
+                            <h5>SERVICES</h5>
                             <div class="textwidget">
                                 <ul class="list_mixed">
                                     <li class="list_check">
-                                        Suspendisse a pellentesque dui, non felis.
+                                    <a href="/"><span>Home</span></a>
                                     </li>
                                     <li class="list_star">
-                                        Quisque lorem tortor fringilla sed.
+                                         <a href="/about-us"><span>About Us</span></a>
                                     </li>
                                     <li class="list_idea">
-                                        Quisque cursus et, porttitor risus.
+                                    <a href="/products"><span>Products</span></a>
                                     </li>
                                     <li class="list_check">
-                                        Nulla ipsum dolor lacus, suscipit.
+                                    <a href="/contact-us"><span>Contact Us</span></a>
                                     </li>
                                 </ul>
                             </div>
@@ -1345,36 +1078,15 @@
                     <div class="column one">
                         <a id="back_to_top" href="#" class="button button_left button_js"><span class="button_icon"><i class="icon-up-open-big"></i></span></a>
                         <div class="copyright">
-                            &copy; 2017 BeTheme - Muffin group - HTML by <a href="http://bit.ly/1M6lijQ" target="_blank">BeantownThemes</a>
+                            &copy;2018 Highness Doors.All rights reserved.<a href="http://bit.ly/1M6lijQ" target="_blank"></a>
                         </div>
                         <!--Social info area-->
                         <ul class="social">
-                            <li class="skype">
-                                <a href="#" title="Skype"><i class="icon-skype"></i></a>
-                            </li>
                             <li class="facebook">
-                                <a href="https://www.facebook.com/Beantown-Themes-653197714728193" title="Facebook"><i class="icon-facebook"></i></a>
-                            </li>
-                            <li class="googleplus">
-                                <a href="https://plus.google.com/" title="Google+"><i class="icon-gplus"></i></a>
+                                <a href="https://www.facebook.com/Highness-Doors-1817969171802557/" title="Facebook"><i class="icon-facebook"></i></a>
                             </li>
                             <li class="twitter">
-                                <a href="#" title="Twitter"><i class="icon-twitter"></i></a>
-                            </li>
-                            <li class="vimeo">
-                                <a href="https://vimeo.com/" title="Vimeo"><i class="icon-vimeo"></i></a>
-                            </li>
-                            <li class="youtube">
-                                <a href="#" title="YouTube"><i class="icon-play"></i></a>
-                            </li>
-                            <li class="flickr">
-                                <a href="https://www.flickr.com/" title="Flickr"><i class="icon-flickr"></i></a>
-                            </li>
-                            <li class="pinterest">
-                                <a href="https://www.pinterest.com/" title="Pinterest"><i class="icon-pinterest"></i></a>
-                            </li>
-                            <li class="dribbble">
-                                <a href="https://dribbble.com" title="Dribbble"><i class="icon-dribbble"></i></a>
+                                <a href="https://twitter.com/highnessdoors" title="Twitter"><i class="icon-twitter"></i></a>
                             </li>
                         </ul>
                     </div>
