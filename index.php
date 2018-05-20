@@ -69,7 +69,8 @@
                                     Have any questions?
                                 </li>
                                 <li class="phone">
-                                    <i class="icon-phone"></i><a href="tel:00914842655040">00914842655040</a>
+                                    <i class="icon-phone"></i><a href="tel:00914842655040">
+                                    +91-4842655040</a>
                                 </li>
                                 <li class="mail">
                                     <i class="icon-mail-line"></i><a href="mailto:info@highnessindia.com">info@highnessindia.com</a>
@@ -109,49 +110,13 @@
                                                 <a href="home-modern-header.html"><span>About Us</span></a>
                                                 <ul class="sub-menu">
                                                     <li>
-                                                        <a href="home-modern-header.html"><span>Modern</span></a>
+                                                        <a href="home-modern-header.html"><span>Company</span></a>
                                                     </li>
                                                     <li>
-                                                        <a href="home-classic-header.html"><span>Classic</span></a>
+                                                        <a href="home-classic-header.html"><span>Events</span></a>
                                                     </li>
                                                     <li>
-                                                        <a href="home-stack-left-header.html"><span>Stack: Left</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="home-stack-center-header.html"><span>Stack: Center</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="home-stack-right-header.html"><span>Stack: Right</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="home-below-slider-header.html"><span>Below Slider</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="home-fixed-header.html"><span>Fixed</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="home-simple-header.html"><span>Simple</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="home-empty-header.html"><span>Empty</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="home-transparent-header.html"><span>Transparent </span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-bar.html"><span>Split <i class="icon-forward"></i></span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-press.html"><span>Magazine <i class="icon-forward"></i></span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-webdesign.html"><span>Overlay <i class="icon-forward"></i></span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-agency.html"><span>Creative <i class="icon-forward"></i></span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-disco.html"><span>Creative: Always Open <i class="icon-forward"></i></span></a>
+                                                        <a href="index-bar.html"><span>Careers</span></a>
                                                     </li>
                                                 </ul>
                                             </li>
