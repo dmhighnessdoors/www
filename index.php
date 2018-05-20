@@ -101,14 +101,12 @@
                                 <div class="menu_wrapper">
                                     <nav id="menu">
                                         <ul id="menu-main-menu" class="menu">
+
                                             <li>
-                                                <a href="http://be.BeantownThemes.com/intro/be-intro/be/splash/index.html" target="_blank"><span>Layouts</span></a>
-                                            </li>
-                                            <li>
-                                                <a href="features-color-skins.html"><span>Features</span></a>
+                                                <a href="features-color-skins.html"><span>Home</span></a>
                                             </li>
                                             <li class="current-menu-item">
-                                                <a href="home-modern-header.html"><span>Headers</span></a>
+                                                <a href="home-modern-header.html"><span>About Us</span></a>
                                                 <ul class="sub-menu">
                                                     <li>
                                                         <a href="home-modern-header.html"><span>Modern</span></a>
@@ -158,7 +156,7 @@
                                                 </ul>
                                             </li>
                                             <li>
-                                                <a href="typography.html"><span>Shortcodes</span></a>
+                                                <a href="typography.html"><span>Products</span></a>
                                                 <ul class="sub-menu mfn-megamenu mfn-megamenu-5 mfn-megamenu-bg flv_menu_bg">
                                                     <li class="mfn-megamenu-cols-5">
                                                         <a class="mfn-megamenu-title" href="typography.html"><span>Typography</span></a>
@@ -349,77 +347,9 @@
                                                     </li>
                                                 </ul>
                                             </li>
+                                        
                                             <li>
-                                                <a href="about.html"><span>Pages</span></a>
-                                                <ul class="sub-menu mfn-megamenu mfn-megamenu-4">
-                                                    <li class="mfn-megamenu-cols-4">
-                                                        <ul class="sub-menu mfn-megamenu mfn-megamenu-4">
-                                                            <li>
-                                                                <a href="about.html"><span><i class="icon-info"></i> About</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="careers.html"><span><i class="icon-heart-empty-fa"></i> Careers</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="contact.html"><span><i class="icon-address"></i> Contact</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="under-construction.html"><span><i class="icon-traffic-cone"></i> Under Construction</span></a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="mfn-megamenu-cols-4">
-                                                        <ul class="sub-menu mfn-megamenu mfn-megamenu-4">
-                                                            <li>
-                                                                <a href="error.html"><span><i class="icon-traffic-cone"></i> Error 404</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="features.html"><span><i class="icon-star-empty"></i> Features</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="gallery.html"><span><i class="icon-picture"></i> Gallery</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="blank-page.html"><span><i class="icon-doc"></i> Blank Page</span></a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="mfn-megamenu-cols-4">
-                                                        <ul class="sub-menu mfn-megamenu mfn-megamenu-4">
-                                                            <li>
-                                                                <a href="help-center.html"><span><i class="icon-lifebuoy"></i> Help Center</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="how-it-works.html"><span><i class="icon-graduation-cap"></i> How it works?</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="our-team.html"><span><i class="icon-users"></i> Our team</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="blog-sidebar-classic.html"><span><i class="icon-comment-fa"></i> Blog</span></a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="mfn-megamenu-cols-4">
-                                                        <ul class="sub-menu mfn-megamenu mfn-megamenu-4">
-                                                            <li>
-                                                                <a href="press.html"><span><i class="icon-newspaper"></i> Press</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="pricing.html"><span><i class="icon-money-line"></i> Pricing</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="sidebar.html"><span><i class="icon-list-add"></i> Sidebar</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="dual-sidebars.html"><span><i class="icon-pause"></i> Dual Sidebars</span></a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="blog-sidebar-classic.html"><span>Blog</span></a>
+                                                <a href="blog-sidebar-classic.html"><span>Contact Us</span></a>
                                                 <ul class="sub-menu">
                                                     <li>
                                                         <a href="blog-full-classic.html"><span>Full Width</span></a>
@@ -473,101 +403,6 @@
                                                         </ul>
                                                     </li>
                                                 </ul>
-                                            </li>
-                                            <li>
-                                                <a href="portfolio-full-grid.html"><span>Portfolio</span></a>
-                                                <ul class="sub-menu">
-                                                    <li>
-                                                        <a href="portfolio-full-grid.html"><span>Full Width</span></a>
-                                                        <ul class="sub-menu">
-                                                            <li>
-                                                                <a href="portfolio-full-flat.html"><span>Flat</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="portfolio-full-grid.html"><span>Grid</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="portfolio-full-list.html"><span>List</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="portfolio-full-masonry.html"><span>Masonry</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="portfolio-full-masonry-flat.html"><span>Masonry Flat</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="portfolio-full-filtering.html"><span>jQuery Filtering</span></a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li>
-                                                        <a href="portfolio-sidebar-grid.html"><span>With Sidebar</span></a>
-                                                        <ul class="sub-menu">
-                                                            <li>
-                                                                <a href="portfolio-sidebar-flat.html"><span>Flat</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="portfolio-sidebar-grid.html"><span>Grid</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="portfolio-sidebar-list.html"><span>List</span></a>
-                                                            </li>
-                                                            <li>
-                                                                <a href="portfolio-sidebar-masonry.html"><span>Masonry</span></a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="menu-item-object-portfolio ">
-                                                        <a href="portfolio-single-content_builder.html"><span>Single Project</span></a>
-                                                        <ul class="sub-menu">
-                                                            <li class="menu-item-object-portfolio">
-                                                                <a href="portfolio-single-1.html"><span>Presentation 1</span></a>
-                                                            </li>
-                                                            <li class="menu-item-object-portfolio">
-                                                                <a href="portfolio-single-2.html"><span>Presentation 2</span></a>
-                                                            </li>
-                                                            <li class="menu-item-object-portfolio">
-                                                                <a href="portfolio-single-gallery.html"><span>Gallery</span></a>
-                                                            </li>
-                                                            <li class="menu-item-object-portfolio">
-                                                                <a href="portfolio-single-mixed.html"><span>Mixed</span></a>
-                                                            </li>
-                                                            <li class="menu-item-object-portfolio">
-                                                                <a href="portfolio-single-video.html"><span>Video</span></a>
-                                                            </li>
-                                                            <li class="menu-item-object-portfolio">
-                                                                <a href="portfolio-single-content_builder.html"><span>Content Builder</span></a>
-                                                            </li>
-                                                            <li class="menu-item-object-portfolio">
-                                                                <a href="portfolio-single-slider_sidebar.html"><span>Slider right sidebar</span></a>
-
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="shop.html"><span>Shop</span></a>
-                                                <ul class="sub-menu">
-                                                    <li>
-                                                        <a href="shop.html"><span>Grid 3 Columns</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="shop-grid-4col.html"><span>Grid 4 Columns</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="shop-list.html"><span>List</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="shop-masonry.html"><span>Masonry</span></a>
-                                                    </li>
-                                                    <li class="menu-item-object-product">
-                                                        <a href="shop-single-product.html"><span>Single Product</span></a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a target="_blank" href="http://bit.ly/1M6lijQ"><span><em class="themecolor">Buy</em></span></a>
                                             </li>
                                         </ul>
                                     </nav><a class="responsive-menu-toggle" href="#"><i class="icon-menu"></i></a>
@@ -625,6 +460,38 @@
                     <div id="rev_slider_34_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container flv_rev_14">
                         <div id="rev_slider_34_2" class="rev_slider fullwidthabanner flv_rev_13">
                             <ul>
+                                <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-thumb="images/slide-home-thumb.jpg" data-saveperformance="off">
+                                    <img src="images/slide-home-bg.jpg" alt="slide-home-bg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+                                    <div class="tp-caption customin flv_rev_9" data-x="center" data-hoffset="300" data-y="center" data-voffset="0" data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:1;transformPerspective:600;transformOrigin:50% 50%;" data-speed="1000" data-start="500" data-easing="easeOutBack" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300"><img src="images/slide-home-1.png" alt="">
+                                    </div>
+                                    <div class="tp-caption tp-fade flv_rev_8" data-x="center" data-hoffset="123" data-y="center" data-voffset="67" data-speed="1000" data-start="1300" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300"><img src="images/slide-home-3.png" alt="">
+                                    </div>
+                                    <div class="tp-caption tp-fade flv_rev_7" data-x="center" data-hoffset="541" data-y="center" data-voffset="24" data-speed="1000" data-start="1800" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300"><img src="images/slide-home-2.png" alt="">
+                                    </div>
+                                    <div class="tp-caption sft flv_rev_6" data-x="center" data-hoffset="86" data-y="center" data-voffset="-170" data-speed="800" data-start="2100" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300"><img src="images/slide-home-4.png" alt="">
+                                    </div>
+                                    <div class="tp-caption sfl flv_rev_5" data-x="center" data-hoffset="-89" data-y="center" data-voffset="-99" data-speed="800" data-start="2400" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300"><img src="images/slide-home-5.png" alt="">
+                                    </div>
+                                    <div class="tp-caption randomrotate flv_rev_12" data-x="center" data-hoffset="617" data-y="center" data-voffset="203" data-speed="800" data-start="2700" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300"><img src="images/slide-home-6.png" alt="">
+                                    </div>
+                                    <div class="tp-caption mfnrs_home sft tp-resizeme flv_rev_2" data-x="center" data-hoffset="-378" data-y="center" data-voffset="-79" data-speed="500" data-start="3000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
+                                        <span class='themecolor'>1</span> theme
+                                        <br>
+                                        <span class='themecolor'><i class='icon-infinity'></i></span> opportunities
+                                    </div>
+                                    <div class="tp-caption mfnrs_home_small sfl tp-resizeme flv_rev_1" data-x="center" data-hoffset="-383" data-y="center" data-voffset="43" data-speed="500" data-start="3300" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
+                                        The easiest way to build different sites
+                                        <br> without many themes
+                                    </div>
+                                    <div class="tp-caption mfnrs_home_small sfr tp-resizeme flv_rev_11" data-x="center" data-hoffset="-391" data-y="center" data-voffset="132" data-speed="500" data-start="3600" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
+                                        <div class="hr_zigzag">
+                                            <i class="icon-down-open"></i><i class="icon-down-open"></i><i class="icon-down-open"></i>
+                                        </div>
+                                    </div>
+                                    <div class="tp-caption mfnrs_home_tiny sfb tp-resizeme flv_rev_10" data-x="center" data-hoffset="-387" data-y="center" data-voffset="196" data-speed="500" data-start="3900" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
+                                        <a class='scroll flv_color_white_1' href='#start'><span class="tooltip" data-tooltip="Click to see more" >Check out</span> what we have prepared for you</a>
+                                    </div>
+                                </li>
                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-thumb="images/slide-home-2-thumb.jpg" data-saveperformance="off">
                                     <img src="images/slide-home-2-bg.jpg" alt="slide-home-2-bg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
                                     <div class="tp-caption lft flv_rev_9" data-x="right" data-hoffset="-50" data-y="bottom" data-voffset="240" data-speed="500" data-start="1000" data-easing="Power3.easeInOut" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300"><img src="images/slide-home-2-1.png" alt="">
