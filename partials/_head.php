@@ -5,7 +5,7 @@
     <title>Highness doors | Home</title>
     <meta name="description" content="HIGHNESS the name of quality is aimed towards designing and manufacturing of highest quality Doors. We can also custom make our products to suit any size and configuration to meet our client requirements.">
     <meta charset="utf-8">
-    <base href="/projects/hd/" />
+    <base href="<?php echo $HOME_URL; ?>" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="referrer" content="always" />
