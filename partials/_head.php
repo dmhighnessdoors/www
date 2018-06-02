@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <title>Highness doors | Home</title>
     <meta name="description" content="HIGHNESS the name of quality is aimed towards designing and manufacturing of highest quality Doors. We can also custom make our products to suit any size and configuration to meet our client requirements.">
-    <meta charset="utf-8">
     <base href="<?php echo $HOME_URL; ?>" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="referrer" content="always" />
-    <meta name="DC.Format" schema="DCterms:IMT" content="text/html" /><meta name="DC.Type" content="text/html">
+    <meta name="DC.Format" schema="DCterms:IMT" content="text/html" />
+    <meta name="DC.Type" content="text/html">
     <meta name="DC.Title" xml:lang="EN" content="Manufacturing FRP Doors and Frames" />
     <meta name="DC.Creator" content="Highness FRP Industries">
     

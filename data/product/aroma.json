@@ -1,0 +1,17 @@
+{
+    "name":"Aroma",
+    "images":[
+        "image path",
+        "image path"
+    ],
+    "description":"some description goes here",
+    "speicifications":[
+        {
+            "name":"height",
+            "value":"10 feet"
+        }
+    ],
+    "colors": [
+        
+    ]
+}

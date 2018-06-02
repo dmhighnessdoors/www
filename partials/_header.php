@@ -37,7 +37,7 @@
                             <div class="top_bar_left clearfix">
                                 <!-- Logo-->
                                 <div class="logo">
-                                    <a id="logo" href="/" alt="Higness doors logo" title="Add Quality & Style to Your Home With HIGHNESS"><img class="scale-with-grid" src="images/hd/logo.jpg" alt="BeTheme - Best Html Theme Ever" />
+                                    <a id="logo" href="/"  title="Add Quality & Style to Your Home With HIGHNESS"><img class="scale-with-grid" alt="Higness doors logo" src="images/hd/logo.jpg" alt="BeTheme - Best Html Theme Ever" />
                                     </a>
                                 </div>
                                 <!-- Main menu-->
@@ -124,7 +124,7 @@
                                     <form method="get" action="#">
                                         <i class="icon_search icon-search"></i><a href="#" class="icon_close"><i class="icon-cancel"></i></a>
                                         <input type="text" class="field" name="s" placeholder="Enter your search" />
-                                        <input type="submit flv_disp_none" class="submit" value="" />
+                                        <input type="submit" class="submit" value="" />
                                     </form>
                                 </div>
                             </div>

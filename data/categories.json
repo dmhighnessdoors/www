@@ -1,0 +1,20 @@
+[
+    {
+        "id": "enternace-doors",
+        "name":"Entrnace doors",
+        "description": "Some html goes here",
+        "image": "image-path"
+    },
+    {
+        "id": "kitchen-doors",
+        "name":"Kitchen doors",
+        "description": "Some html goes here",
+        "image": "image-path"
+    },
+    {
+        "id": "bedroom-doors",
+        "name":"Bedroom doors",
+        "description": "Some html goes here",
+        "image": "image-path"
+    }
+]

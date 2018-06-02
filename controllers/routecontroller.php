@@ -1,6 +1,16 @@
 <?php
 
-    $HOME_URL = '/projects/hd/';
+    $HOME_URL = '/projects/hd/';    //On Fasils machine
+    //$HOME_URL = '/hd/';           //On Farhas machine
+    //$HOME_URL = '/demo/';         //Demo on PRD
+
+    //Load json data
+    if(!isset($GLOBALS['categories'])){
+        $GLOBALS['categories'] = 'loaded';
+        //echo 'Categories loaded';
+    } else {
+        //echo 'Categories from memory cahce';
+    }
     
 
     function routePrimaryContent(){

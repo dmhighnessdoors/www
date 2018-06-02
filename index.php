@@ -8,8 +8,8 @@
 <!--<![endif]-->
 
 <?php 
-    include 'partials/_head.php';
     include 'controllers/routecontroller.php';
+    include 'partials/_head.php';
 ?>
 
 <body class="page-parent template-slider color-blue layout-full-width header-classic subheader-transparent sticky-header sticky-white subheader-title-left">

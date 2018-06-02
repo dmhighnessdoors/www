@@ -1,0 +1,14 @@
+[
+    {
+        "id":"aroma",
+        "name":"Aroma",
+        "description":"small description goes here",
+        "image":"image path"
+    },
+    {
+        "id":"woodland",
+        "name":"Woodland",
+        "description":"small description goes here",
+        "image":"image path"
+    }
+]
