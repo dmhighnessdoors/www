@@ -2991,6 +2991,7 @@ ol {
 	margin-top: 10px;
 	margin-bottom: 0
 }
+
 ul.list_mixed, ul.list_check, ul.list_star, ul.list_idea {
 	margin-left: 0
 }
@@ -3022,6 +3023,9 @@ ul.list_star li, li.list_star {
 }
 ul.list_idea li, li.list_idea {
 	background: url(../images/icons/list_idea.png) no-repeat 20px 6px
+}
+ul.list_footer li{
+	padding-left: 0;
 }
 dl {
 	margin: 0 0 30px

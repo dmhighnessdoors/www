@@ -71,9 +71,9 @@
                                             <div class="desc_wrapper">
                                                 <h4> COMPANY HISTORY</h4>
                                                 <div class="desc">
-                                                    We created awesome
-                                                    <span class="tooltip" data-tooltip="Click to scroll down"></span> .
-                                                    <br> Choose one of them and use for own business site.
+                                                Highness FRP Industries an ISO certified Organization was set up in 1995 and is based in Kerala . We are one of the leading manufacturers of Fibre Reinforced Plastic (FRP) Doors and Frames.
+                                                    <span class="tooltip" data-tooltip="Click to scroll down"></span>
+                                                    <br> 
                                                 </div>
                                             </div>
                                         </a>
@@ -94,8 +94,8 @@
                                             <div class="desc_wrapper">
                                                 <h4>WHAT WE DO</h4>
                                                 <div class="desc">
-                                                    Don`t waste your time and within minutes create
-                                                    <br> your website easily. You will love it!
+                                                The company works with the motto to provide the Best Product at Right Price with superior Quality. The company manufactures Rigid and Strong FRP Doors in various aesthetic designs, colours and measurements with variegated features.
+                                                    <br>
                                                 </div>
                                             </div>
                                         </a>
@@ -116,85 +116,12 @@
                                             <div class="desc_wrapper">
                                                 <h4>OUR AIM</h4>
                                                 <div class="desc">
-                                                    This theme is always updated on time.
-                                                    <br> We also offer
-                                                    <span class="tooltip" data-tooltip="For support please visit theme forum">free support</span> for all our themes!
+                                                The company is continuously keeping pace with the changing market scenario. Our main strengths are supreme class quality products, top of the line design and advance technology that we use to make classic range of products.
+                                                    <br> 
+                                                    <span class="tooltip" data-tooltip="For support please visit theme forum"></span>
                                                 </div>
                                             </div>
                                         </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="section flv_sections_5">
-                    <div class="section_wrapper clearfix">
-                        <div class="items_group clearfix">
-                            <!-- Page Title-->
-                            <!-- One full width row-->
-                            <div class="column one column_fancy_heading">
-                                <div class="fancy_heading fancy_heading_icon">
-                                    <h2 class="title">Why you'll love our theme?</h2>
-                                </div>
-                            </div>
-                            <!-- One Fourth (1/4) Column -->
-                            <div class="column one-fourth column_quick_fact">
-                                <!-- Counter area-->
-                                <div class="quick_fact animate-math">
-                                    <!-- Animated area -->
-                                    <div class="animate" data-anim-type="bounceIn">
-                                        <div class="number" data-to="400">
-                                            0
-                                        </div>
-                                        <h3 class="title">homepages</h3>
-                                        <hr class="hr_narrow" />
-                                        <div class="desc"></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- One Fourth (1/4) Column -->
-                            <div class="column one-fourth column_quick_fact">
-                                <!-- Counter area-->
-                                <div class="quick_fact animate-math">
-                                    <!-- Animated area -->
-                                    <div class="animate" data-anim-type="bounceIn">
-                                        <div class="number" data-to="200">
-                                            0
-                                        </div>
-                                        <h3 class="title">shortcodes &amp; items</h3>
-                                        <hr class="hr_narrow" />
-                                        <div class="desc"></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- One Fourth (1/4) Column -->
-                            <div class="column one-fourth column_quick_fact">
-                                <!-- Counter area-->
-                                <div class="quick_fact animate-math">
-                                    <!-- Animated area -->
-                                    <div class="animate" data-anim-type="bounceIn">
-                                        <div class="number" data-to="9518">
-                                            0
-                                        </div>
-                                        <h3 class="title">happy clients</h3>
-                                        <hr class="hr_narrow" />
-                                        <div class="desc"></div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- One Fourth (1/4) Column -->
-                            <div class="column one-fourth column_quick_fact">
-                                <!-- Counter area-->
-                                <div class="quick_fact animate-math">
-                                    <!-- Animated area -->
-                                    <div class="animate" data-anim-type="bounceIn">
-                                        <div class="number" data-to="21">
-                                            0
-                                        </div>
-                                        <h3 class="title">different pages</h3>
-                                        <hr class="hr_narrow" />
-                                        <div class="desc"></div>
                                     </div>
                                 </div>
                             </div>
@@ -317,413 +244,7 @@
                             </div>
                             <!-- Page devider -->
                             <!-- One full width row-->
-                            <div class="column one column_divider">
-                                <hr class="flv_margin_b_35" />
-                            </div>
-                            <!-- Page Title-->
-                            <!-- One full width row-->
-                            <div class="column one column_fancy_heading">
-                                <div class="fancy_heading fancy_heading_icon">
-                                    <!-- Animated area -->
-                                    <div class="animate" data-anim-type="zoomInLeftLarge">
-                                        <h2 class="title">Still not sure? See our
-                                            <span id="thematic-websites" class="themecolor">latest demos</span>
-                                        </h2>
-                                        <div class="inside">
-                                            <span class="big">We have created 200+ layouts that perfectly fit to your type of business. Choose
-                                                own and use within minutes.</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="section full-width flv_sections_3">
-                    <div class="section_wrapper clearfix">
-                        <div class="items_group clearfix">
-                            <!-- One full width row-->
-                            <div class="column one column_offer">
-                                <div class="offer">
-                                    <ul class="offer_ul">
-                                        <li class="offer_li">
-                                            <div class="image_wrapper">
-                                                <img width="952" height="537" src="images/be-photo.jpg" class="scale-with-grid wp-post-image"
-                                                    alt="be-photo" />
-                                            </div>
-                                            <div class="desc_wrapper">
-                                                <div class="title">
-                                                    <h3>
-                                                        <span class="flv_photo_color">Be|</span>photo</h3>
-                                                    <a href="index-photo.html" class="button button_js"
-                                                        target="_blank">
-                                                        <span class="button_icon">
-                                                            <i class="icon-layout"></i>
-                                                        </span>
-                                                        <span class="button_label">View demo</span>
-                                                    </a>
-                                                </div>
-                                                <div class="desc">
-                                                    <p>
-                                                        <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, mo lest ie id viverra
-                                                            a, dapibus at dolor. In iaculis viverra ne que, ac eleifend ante
-                                                            lobortis.</span>
-                                                    </p>
-                                                    <div class="hr_dots">
-                                                        <span></span>
-                                                        <span></span>
-                                                        <span></span>
-                                                    </div>
-                                                    <h5>Additional features:</h5>
-                                                    <ul class="list_mixed">
-                                                        <li class="list_check">
-                                                            Beautiful, full width slider.
-                                                        </li>
-                                                        <li class="list_star">
-                                                            Simple menu with logo.
-                                                        </li>
-                                                    </ul>
-                                                    <div class="idea_box">
-                                                        <div class="icon">
-                                                            <i class="icon-lamp"></i>
-                                                        </div>
-                                                        <div class="desc">
-                                                            We recommend
-                                                            <a href="index-photo.html" target="_blank">this version</a> for business related with photos or images,
-                                                            like:
-                                                            <strong>photographers</strong>,
-                                                            <strong>hairdressers</strong>,
-                                                            <strong>artists </strong>and other.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="offer_li">
-                                            <div class="image_wrapper">
-                                                <img width="952" height="537" src="images/be-agency.jpg" class="scale-with-grid wp-post-image"
-                                                    alt="be-agency" />
-                                            </div>
-                                            <div class="desc_wrapper">
-                                                <div class="title">
-                                                    <h3>
-                                                        <span class="flv_agency_color">Be|</span>agency</h3>
-                                                    <a href="index-agency.html" class="button button_js"
-                                                        target="_blank">
-                                                        <span class="button_icon">
-                                                            <i class="icon-layout"></i>
-                                                        </span>
-                                                        <span class="button_label">View demo</span>
-                                                    </a>
-                                                </div>
-                                                <div class="desc">
-                                                    <p>
-                                                        <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, mo lest ie id viverra
-                                                            a, dapibus at dolor. In iaculis viverra ne que, ac eleifend ante
-                                                            lobortis.</span>
-                                                    </p>
-                                                    <div class="hr_dots">
-                                                        <span></span>
-                                                        <span></span>
-                                                        <span></span>
-                                                    </div>
-                                                    <h5>Additional features:</h5>
-                                                    <ul class="list_mixed">
-                                                        <li class="list_check">
-                                                            Creative menu on the left side with backgrounds for mega menu.
-                                                        </li>
-                                                        <li class="list_star">
-                                                            Slider with background video.
-                                                        </li>
-                                                    </ul>
-                                                    <div class="idea_box">
-                                                        <div class="icon">
-                                                            <i class="icon-lamp"></i>
-                                                        </div>
-                                                        <div class="desc">
-                                                            We recommend
-                                                            <a href="index-agency.html" target="_blank">this version</a> for business related with agencies, like:
-                                                            <strong>creative agencies</strong>,
-                                                            <strong>designers, artists </strong>and other.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="offer_li">
-                                            <div class="image_wrapper">
-                                                <img width="952" height="537" src="images/be-design.jpg" class="scale-with-grid wp-post-image"
-                                                    alt="be-design" />
-                                            </div>
-                                            <div class="desc_wrapper">
-                                                <div class="title">
-                                                    <h3>
-                                                        <span class="flv_design_color">Be|</span>design</h3>
-                                                    <a href="index-design.html" class="button button_js"
-                                                        target="_blank">
-                                                        <span class="button_icon">
-                                                            <i class="icon-layout"></i>
-                                                        </span>
-                                                        <span class="button_label">View demo</span>
-                                                    </a>
-                                                </div>
-                                                <div class="desc">
-                                                    <p>
-                                                        <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, mo lest ie id viverra
-                                                            a, dapibus at dolor. In iaculis viverra ne que, ac eleifend ante
-                                                            lobortis.</span>
-                                                    </p>
-                                                    <div class="hr_dots">
-                                                        <span></span>
-                                                        <span></span>
-                                                        <span></span>
-                                                    </div>
-                                                    <h5>Additional features:</h5>
-                                                    <ul class="list_mixed">
-                                                        <li class="list_check">
-                                                            Creative menu on the left side.
-                                                        </li>
-                                                        <li class="list_star">
-                                                            Great portfolio with awesome layout.
-                                                        </li>
-                                                    </ul>
-                                                    <div class="idea_box">
-                                                        <div class="icon">
-                                                            <i class="icon-lamp"></i>
-                                                        </div>
-                                                        <div class="desc">
-                                                            We recommend
-                                                            <a href="index-design.html" target="_blank">this version</a> for business related with portfolios, like:
-                                                            <strong>designers</strong>,
-                                                            <strong>architects </strong>and other.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="offer_li">
-                                            <div class="image_wrapper">
-                                                <img width="952" height="537" src="images/be-press.jpg" class="scale-with-grid wp-post-image"
-                                                    alt="be-press" />
-                                            </div>
-                                            <div class="desc_wrapper">
-                                                <div class="title">
-                                                    <h3>
-                                                        <span class="flv_press_color">Be|</span>press</h3>
-                                                    <a href="index-press.html" class="button button_js"
-                                                        target="_blank">
-                                                        <span class="button_icon">
-                                                            <i class="icon-layout"></i>
-                                                        </span>
-                                                        <span class="button_label">View demo</span>
-                                                    </a>
-                                                </div>
-                                                <div class="desc">
-                                                    <p>
-                                                        <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, mo lest ie id viverra
-                                                            a, dapibus at dolor. In iaculis viverra ne que, ac eleifend ante
-                                                            lobortis.</span>
-                                                    </p>
-                                                    <div class="hr_dots">
-                                                        <span></span>
-                                                        <span></span>
-                                                        <span></span>
-                                                    </div>
-                                                    <h5>Additional features:</h5>
-                                                    <ul class="list_mixed">
-                                                        <li class="list_check">
-                                                            Magazine style with Ads banners and sidebar on the right.
-                                                        </li>
-                                                        <li class="list_star">
-                                                            Magazine header style with banner at the top.
-                                                        </li>
-                                                    </ul>
-                                                    <div class="idea_box">
-                                                        <div class="icon">
-                                                            <i class="icon-lamp"></i>
-                                                        </div>
-                                                        <div class="desc">
-                                                            We recommend
-                                                            <a href="index-press.html" target="_blank">this version</a> for business related with press, like:
-                                                            <strong>magazines</strong>,
-                                                            <strong>e-newspapers </strong>and other.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="offer_li">
-                                            <div class="image_wrapper">
-                                                <img width="952" height="537" src="images/be-spa.jpg" class="scale-with-grid wp-post-image"
-                                                    alt="be-spa" />
-                                            </div>
-                                            <div class="desc_wrapper">
-                                                <div class="title">
-                                                    <h3>
-                                                        <span class="flv_spa_color">Be|</span>spa</h3>
-                                                    <a href="index-spa.html" class="button button_js"
-                                                        target="_blank">
-                                                        <span class="button_icon">
-                                                            <i class="icon-layout"></i>
-                                                        </span>
-                                                        <span class="button_label">View demo</span>
-                                                    </a>
-                                                </div>
-                                                <div class="desc">
-                                                    <p>
-                                                        <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, mo lest ie id viverra
-                                                            a, dapibus at dolor. In iaculis viverra ne que, ac eleifend ante
-                                                            lobortis.</span>
-                                                    </p>
-                                                    <div class="hr_dots">
-                                                        <span></span>
-                                                        <span></span>
-                                                        <span></span>
-                                                    </div>
-                                                    <h5>Additional features:</h5>
-                                                    <ul class="list_mixed">
-                                                        <li class="list_check">
-                                                            Transparent menu with large image at the top.
-                                                        </li>
-                                                        <li class="list_star">
-                                                            New item called &#8220;Flat box&#8221;.
-                                                        </li>
-                                                    </ul>
-                                                    <div class="idea_box">
-                                                        <div class="icon">
-                                                            <i class="icon-lamp"></i>
-                                                        </div>
-                                                        <div class="desc">
-                                                            We recommend
-                                                            <a href="index-spa.html" target="_blank">this version</a> for business related with beauty, like:
-                                                            <strong>spa</strong>,
-                                                            <strong>beauty offices </strong>and other.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="offer_li">
-                                            <div class="image_wrapper">
-                                                <img width="952" height="537" src="images/be-university.jpg" class="scale-with-grid wp-post-image"
-                                                    alt="be-university" />
-                                            </div>
-                                            <div class="desc_wrapper">
-                                                <div class="title">
-                                                    <h3>
-                                                        <span class="flv_university_color">Be|</span>university</h3>
-                                                    <a href="index-university.html" class="button button_js"
-                                                        target="_blank">
-                                                        <span class="button_icon">
-                                                            <i class="icon-layout"></i>
-                                                        </span>
-                                                        <span class="button_label">View demo</span>
-                                                    </a>
-                                                </div>
-                                                <div class="desc">
-                                                    <p>
-                                                        <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, mo lest ie id viverra
-                                                            a, dapibus at dolor. In iaculis viverra ne que, ac eleifend ante
-                                                            lobortis.</span>
-                                                    </p>
-                                                    <div class="hr_dots">
-                                                        <span></span>
-                                                        <span></span>
-                                                        <span></span>
-                                                    </div>
-                                                    <h5>Additional features:</h5>
-                                                    <ul class="list_mixed">
-                                                        <li class="list_check">
-                                                            Classic header style.
-                                                        </li>
-                                                        <li class="list_star">
-                                                            Different tabs and recent posts.
-                                                        </li>
-                                                    </ul>
-                                                    <div class="idea_box">
-                                                        <div class="icon">
-                                                            <i class="icon-lamp"></i>
-                                                        </div>
-                                                        <div class="desc">
-                                                            We recommend
-                                                            <a href="index-university.html" target="_blank">this version</a> for business related with teaching, like:
-                                                            <strong>universities</strong>,
-                                                            <strong>language schools </strong>and other.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                        <li class="offer_li">
-                                            <div class="image_wrapper">
-                                                <img width="952" height="537" src="images/be-carrental.jpg" class="scale-with-grid wp-post-image"
-                                                    alt="be-carrental" />
-                                            </div>
-                                            <div class="desc_wrapper">
-                                                <div class="title">
-                                                    <h3>
-                                                        <span class="flv_carrental_color">Be|</span>CarRental</h3>
-                                                    <a href="index-carrental.html" class="button button_js"
-                                                        target="_blank">
-                                                        <span class="button_icon">
-                                                            <i class="icon-layout"></i>
-                                                        </span>
-                                                        <span class="button_label">View demo</span>
-                                                    </a>
-                                                </div>
-                                                <div class="desc">
-                                                    <p>
-                                                        <span class="big">Vitae adipiscing turpis. Aenean ligula nibh, mo lest ie id viverra
-                                                            a, dapibus at dolor. In iaculis viverra ne que, ac eleifend ante
-                                                            lobortis.</span>
-                                                    </p>
-                                                    <div class="hr_dots">
-                                                        <span></span>
-                                                        <span></span>
-                                                        <span></span>
-                                                    </div>
-                                                    <h5>Additional features:</h5>
-                                                    <ul class="list_mixed">
-                                                        <li class="list_check">
-                                                            Nice transparent header style.
-                                                        </li>
-                                                        <li class="list_star">
-                                                            Great pricing items tailored especially for this page.
-                                                        </li>
-                                                    </ul>
-                                                    <div class="idea_box">
-                                                        <div class="icon">
-                                                            <i class="icon-lamp"></i>
-                                                        </div>
-                                                        <div class="desc">
-                                                            We recommend
-                                                            <a href="index-carrental.html" target="_blank">this version</a> for business related with rentals, like:
-                                                            <strong>car rents</strong>,
-                                                            <strong>boat rents </strong>and other.
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </li>
-                                    </ul>
-                                    <a class="button button_large button_js slider_prev" href="#">
-                                        <span class="button_icon">
-                                            <i class="icon-up-open-big"></i>
-                                        </span>
-                                    </a>
-                                    <div class="slider_pagination">
-                                        <span class="current">1</span> /
-                                        <span class="count">1</span>
-                                    </div>
-                                    <a class="button button_large button_js slider_next" href="#">
-                                        <span class="button_icon">
-                                            <i class="icon-down-open-big"></i>
-                                        </span>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                            
                 </div>
                 <div class="section dark flv_sections_2">
                     <div class="section_wrapper clearfix">
@@ -765,91 +286,6 @@
                             <div class="column one column_fancy_heading">
                                 <div class="fancy_heading fancy_heading_icon">
                                     <!-- Animated area -->
-                                    <div class="animate" data-anim-type="zoomInLeftLarge">
-                                        <h2 class="title">Ready for e-commerce</h2>
-                                        <div class="inside">
-                                            <span class="big">Create own online store and start earning money. Your customers will love design
-                                                and usability.</span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- One Third (1/3) Column -->
-                            <div class="column one-third column_list">
-                                <div class="list_item lists_3 clearfix">
-                                    <!-- Animated area -->
-                                    <div class="animate" data-anim-type="fadeInLeft">
-                                        <div class="list_left list_icon">
-                                            <i class="icon-tag"></i>
-                                        </div>
-                                        <div class="list_right">
-                                            <h4>Install WooCommerce</h4>
-                                            <div class="desc">
-                                                Download and install WooCommerce plugin. This tool is easy in use and got tons of configuration possibilities.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- One Third (1/3) Column -->
-                            <div class="column one-third column_list">
-                                <div class="list_item lists_3 clearfix">
-                                    <!-- Animated area -->
-                                    <div class="animate" data-anim-type="fadeInRight">
-                                        <div class="list_left list_icon">
-                                            <i class="icon-picture"></i>
-                                        </div>
-                                        <div class="list_right">
-                                            <h4>Upload products</h4>
-                                            <div class="desc">
-                                                Just upload products with good looking images. Also setup options like shipping, costs and other stuff.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Page devider -->
-                            <!-- One full width row-->
-                            <div class="column one column_divider">
-                                <hr class="no_line" />
-                            </div>
-                            <!-- One Third (1/3) Column -->
-                            <div class="column one-third column_list">
-                                <div class="list_item lists_3 clearfix">
-                                    <!-- Animated area -->
-                                    <div class="animate" data-anim-type="fadeInLeft">
-                                        <div class="list_left list_icon">
-                                            <i class="icon-chart-line"></i>
-                                        </div>
-                                        <div class="list_right">
-                                            <h4>Increase sales</h4>
-                                            <div class="desc">
-                                                Increase sales like never before. Lot`s of users got up to 200% because of nice design and usability.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- One Third (1/3) Column -->
-                            <div class="column one-third column_list">
-                                <div class="list_item lists_3 clearfix">
-                                    <!-- Animated area -->
-                                    <div class="animate" data-anim-type="fadeInRight">
-                                        <div class="list_left list_icon">
-                                            <i class="icon-users"></i>
-                                        </div>
-                                        <div class="list_right">
-                                            <h4>Get satisfied customers</h4>
-                                            <div class="desc">
-                                                Happy client is good client. Customer who enjoy your shop will recommend it to his friends.
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="section dark flv_section">
                     <div class="section_wrapper clearfix">
                         <div class="items_group clearfix">
@@ -873,7 +309,7 @@
                                                         <i class="icon-tools"></i>
                                                     </span>
                                                     <p>
-                                                        Best Muffin Options panel
+                                                        1 to 1 consultation
                                                     </p>
                                                 </a>
                                             </div>
@@ -886,7 +322,7 @@
                                                         <i class="icon-cog"></i>
                                                     </span>
                                                     <p>
-                                                        Easy and fast Muffin Builder
+                                                        Free Measure and Quote
                                                     </p>
                                                 </a>
                                             </div>
@@ -899,7 +335,7 @@
                                                         <i class="icon-pencil"></i>
                                                     </span>
                                                     <p>
-                                                        One click skin generator
+                                                        Painting and staining
                                                     </p>
                                                 </a>
                                             </div>
@@ -912,7 +348,7 @@
                                                         <i class="icon-globe"></i>
                                                     </span>
                                                     <p>
-                                                        WordPress Multilingual ready
+                                                        Door Home Delivery
                                                     </p>
                                                 </a>
                                             </div>
@@ -925,7 +361,7 @@
                                                         <i class="icon-flag"></i>
                                                     </span>
                                                     <p>
-                                                        Built-in Translator
+                                                        Expert Door Installation
                                                     </p>
                                                 </a>
                                             </div>

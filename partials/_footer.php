@@ -10,14 +10,42 @@
                 <div class="container">
                     <div class="one-fourth column">
                         <!-- Text Area -->
-                        <aside id="text-7" class="widget widget_text">
-                            <div class="textwidget"><h5>CONTACT INFORMATION</h5>
-                                <p>
-                                    <span class="big">Highness FRP Industries 5/616 C
-                                        Arackappady | Vengola P.O Perumbavoor |
-                                        Ernakulam Kerala | India Pin-683554</span>
-                                </p>
-                                <a href="https://www.facebook.com/Highness-Doors-1817969171802557/" class="icon_bar icon_bar_facebook icon_bar_small"><span class="t"><i class="icon-facebook"></i></span><span class="b"><i class="icon-facebook"></i></span></a><a href="https://twitter.com/highnessdoors" class="icon_bar icon_bar_twitter icon_bar_small"><span class="t"><i class="icon-twitter"></i></span><span class="b"><i class="icon-twitter"></i></span></a>
+                        <aside id="text-8" class="widget widget_text">
+                            <h5>Quick Links</h5>
+                            <div class="textwidget">
+                                <ul class="list_mixed list_footer">
+                                    <li>
+                                    <a href="/"><span>Home</span></a>
+                                    </li>
+                                    <li>
+                                            <a href="/about-us"><span>About Us</span></a>
+                                    </li>
+                                    <li>
+                                    <a href="/products"><span>Products</span></a>
+                                    </li>
+                                    <li>
+                                    <a href="/contact-us"><span>Contact Us</span></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </aside>
+                    </div>
+                    <div class="one-fourth column">
+                        <!-- Text Area -->
+                        <aside id="text-8" class="widget widget_text">
+                            <h5>Products</h5>
+                            <div class="textwidget">
+                                <ul class="list_mixed list_footer">
+                                    <li>
+                                    <a href="/"><span>Entrance Doors</span></a>
+                                    </li>
+                                    <li>
+                                            <a href="/about-us"><span>Kitchen Doors</span></a>
+                                    </li>
+                                    <li>
+                                    <a href="/products"><span>Bathroom Doors</span></a>
+                                    </li>
+                                </ul>
                             </div>
                         </aside>
                     </div>
@@ -32,29 +60,27 @@
                                     <li>Monday to Friday: 8am to 6pm </li>
                                     <li>Saturday: 9am to 6pm </li>
                                     <li>Sunday: 10am to 4pm </li>
+                                    <li class="phone">
+                                    <i class="icon-phone"></i><a href="tel:00914842655040">
+                                    +91 4842655040</a>
+                                </li>
+                                <li class="mail">
+                                    <i class="icon-mail-line"></i><a href="mailto:info@highnessindia.com">info@highnessindia.com</a>
+                                </li>
                                 </ul>
                             </div>
                         </aside>
                     </div>
                     <div class="one-fourth column">
                         <!-- Text Area -->
-                        <aside id="text-8" class="widget widget_text">
-                            <h5>SERVICES</h5>
-                            <div class="textwidget">
-                                <ul class="list_mixed">
-                                    <li class="list_check">
-                                    <a href="/"><span>Home</span></a>
-                                    </li>
-                                    <li class="list_star">
-                                         <a href="/about-us"><span>About Us</span></a>
-                                    </li>
-                                    <li class="list_idea">
-                                    <a href="/products"><span>Products</span></a>
-                                    </li>
-                                    <li class="list_check">
-                                    <a href="/contact-us"><span>Contact Us</span></a>
-                                    </li>
-                                </ul>
+                        <aside id="text-7" class="widget widget_text">
+                            <div class="textwidget"><h5>CONTACT INFORMATION</h5>
+                                <p>
+                                    <span class="big">Highness FRP Industries 5/616 C
+                                        Arackappady | Vengola P.O Perumbavoor |
+                                        Ernakulam Kerala | India Pin-683554</span>
+                                </p>
+                                <a href="https://www.facebook.com/Highness-Doors-1817969171802557/" class="icon_bar icon_bar_facebook icon_bar_small"><span class="t"><i class="icon-facebook"></i></span><span class="b"><i class="icon-facebook"></i></span></a><a href="https://twitter.com/highnessdoors" class="icon_bar icon_bar_twitter icon_bar_small"><span class="t"><i class="icon-twitter"></i></span><span class="b"><i class="icon-twitter"></i></span></a>
                             </div>
                         </aside>
                     </div>
