@@ -1,0 +1,12 @@
+{
+    "id"            :       "/product/model/mugal-doors",
+    "name"          :       "Mugal doors",
+    "type"          :       "Plain door",
+    "slogan"        :       "---",
+    "pictures"      :       [
+        "mugal-doors-1.jpg"
+    ],
+    "description"   :       "----",
+    "size"          :       "-----",
+    "categories"    :       [0,1,2,3,4]
+}

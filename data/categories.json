@@ -1,20 +1,23 @@
 [
     {
-        "id": "enternace-doors",
-        "name":"Entrnace doors",
-        "description": "Some html goes here",
-        "image": "image-path"
+        "id"        :       "/category/bedroom-door",
+        "name"      :       "Bedroom door",
+        "products"  :       [0]
     },
     {
-        "id": "kitchen-doors",
-        "name":"Kitchen doors",
-        "description": "Some html goes here",
-        "image": "image-path"
+        "id"    :       "/category/main-room-door",
+        "name"  :       "Main room door"
     },
     {
-        "id": "bedroom-doors",
-        "name":"Bedroom doors",
-        "description": "Some html goes here",
-        "image": "image-path"
+        "id"    :       "/category/kitchen-door",
+        "name"  :       "Kitchen door"
+    },
+    {
+        "id"    :       "/category/office-door",
+        "name"  :       "Office door"
+    },
+    {
+        "id"    :       "/category/back-yard-door",
+        "name"  :       "Back yard door"
     }
 ]
