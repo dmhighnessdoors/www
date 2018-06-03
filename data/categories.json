@@ -1,23 +1,23 @@
 [
     {
-        "id"        :       "/category/bedroom-door",
+        "id"        :       "category/bedroom-door",
         "name"      :       "Bedroom door",
         "products"  :       [0]
     },
     {
-        "id"    :       "/category/main-room-door",
+        "id"    :       "category/main-room-door",
         "name"  :       "Main room door"
     },
     {
-        "id"    :       "/category/kitchen-door",
+        "id"    :       "category/kitchen-door",
         "name"  :       "Kitchen door"
     },
     {
-        "id"    :       "/category/office-door",
+        "id"    :       "category/office-door",
         "name"  :       "Office door"
     },
     {
-        "id"    :       "/category/back-yard-door",
+        "id"    :       "category/back-yard-door",
         "name"  :       "Back yard door"
     }
 ]

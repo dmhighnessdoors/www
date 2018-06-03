@@ -21,7 +21,10 @@
                                             <a href="/about-us"><span>About Us</span></a>
                                     </li>
                                     <li>
-                                    <a href="/products"><span>Products</span></a>
+                                        <a href="/categories"><span>Categories</span></a>
+                                    </li>
+                                    <li>
+                                        <a href="/products"><span>Products</span></a>
                                     </li>
                                     <li>
                                     <a href="/contact-us"><span>Contact Us</span></a>
@@ -36,15 +39,17 @@
                             <h5>Products</h5>
                             <div class="textwidget">
                                 <ul class="list_mixed list_footer">
-                                    <li>
-                                    <a href="/"><span>Entrance Doors</span></a>
-                                    </li>
-                                    <li>
-                                            <a href="/about-us"><span>Kitchen Doors</span></a>
-                                    </li>
-                                    <li>
-                                    <a href="/products"><span>Bathroom Doors</span></a>
-                                    </li>
+                                    
+                                    <?php
+                                        foreach($products as $product)
+                                        {
+                                    ?>
+                                        <li>
+                                            <a href="<?php echo getFullUrl($product['id']) ?>"><span><?php echo $product['name'] ?></span></a>
+                                        </li>
+                                    <?php
+                                        }
+                                    ?>
                                 </ul>
                             </div>
                         </aside>
@@ -80,7 +85,7 @@
                                         Arackappady | Vengola P.O Perumbavoor |
                                         Ernakulam Kerala | India Pin-683554</span>
                                 </p>
-                                <a href="https://www.facebook.com/Highness-Doors-1817969171802557/" class="icon_bar icon_bar_facebook icon_bar_small"><span class="t"><i class="icon-facebook"></i></span><span class="b"><i class="icon-facebook"></i></span></a><a href="https://twitter.com/highnessdoors" class="icon_bar icon_bar_twitter icon_bar_small"><span class="t"><i class="icon-twitter"></i></span><span class="b"><i class="icon-twitter"></i></span></a>
+                                <a href="https://www.facebook.com/Highness-Doors-1817969171802557/" target="_blank" class="icon_bar icon_bar_facebook icon_bar_small"><span class="t"><i class="icon-facebook"></i></span><span class="b"><i class="icon-facebook"></i></span></a><a href="https://twitter.com/highnessdoors" target="_blank" class="icon_bar icon_bar_twitter icon_bar_small"><span class="t"><i class="icon-twitter"></i></span><span class="b"><i class="icon-twitter"></i></span></a>
                             </div>
                         </aside>
                     </div>

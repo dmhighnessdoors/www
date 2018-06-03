@@ -21,10 +21,10 @@
                             <!--Social info area-->
                             <ul class="social">
                                 <li class="facebook">
-                                    <a href="https://www.facebook.com/Highness-Doors-1817969171802557/" title="Facebook"><i class="icon-facebook"></i></a>
+                                    <a href="https://www.facebook.com/Highness-Doors-1817969171802557/" target="_blank" title="Facebook"><i class="icon-facebook"></i></a>
                                 </li>
                                 <li class="twitter">
-                                    <a href="https://twitter.com/highnessdoors" title="Twitter"><i class="icon-twitter"></i></a>
+                                    <a href="https://twitter.com/highnessdoors" target="_blank" title="Twitter"><i class="icon-twitter"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -37,7 +37,7 @@
                             <div class="top_bar_left clearfix">
                                 <!-- Logo-->
                                 <div class="logo">
-                                    <a id="logo" href="/"  title="Add Quality & Style to Your Home With HIGHNESS"><img class="scale-with-grid" alt="Higness doors logo" src="images/hd/logo.jpg" alt="BeTheme - Best Html Theme Ever" />
+                                    <a id="logo" href="<?php echo getFullUrl('') ?>"  title="Add Quality & Style to Your Home With HIGHNESS"><img class="scale-with-grid" alt="Higness doors logo" src="images/hd/logo.jpg" alt="BeTheme - Best Html Theme Ever" />
                                     </a>
                                 </div>
                                 <!-- Main menu-->
@@ -63,17 +63,34 @@
                                                 </ul>
                                             </li>
                                             <li>
+                                                <a href="/products"><span>Categories</span></a>
+                                                <ul class="sub-menu">
+                                                    <?php
+                                                        foreach($categories as $category)
+                                                        {
+                                                    ?>
+                                                        <li>
+                                                            <a href="<?php echo getFullUrl($category['id']) ?>"><span><?php echo $category['name'] ?></span></a>
+                                                        </li>
+                                                    <?php
+                                                        }
+                                                    ?>
+                                                </ul>
+                                            </li>
+
+                                            <li>
                                                 <a href="/products"><span>Products</span></a>
                                                 <ul class="sub-menu">
-                                                    <li>
-                                                        <a href="home-modern-header.html"><span>Entrance Doors</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="home-classic-header.html"><span>Kitchen Doors</span></a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="index-bar.html"><span>Bedroom Doors</span></a>
-                                                    </li>
+                                                    <?php
+                                                        foreach($products as $product)
+                                                        {
+                                                    ?>
+                                                        <li>
+                                                            <a href="<?php echo getFullUrl($product['id']) ?>"><span><?php echo $product['name'] ?></span></a>
+                                                        </li>
+                                                    <?php
+                                                        }
+                                                    ?>
                                                 </ul>
                                             </li>
                                         
