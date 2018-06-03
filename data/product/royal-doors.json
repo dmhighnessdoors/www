@@ -1,0 +1,14 @@
+{
+    "id"            :       "product/model/royal-doors",
+    "name"          :       "Royal doors",
+    "type"          :       "Plain door; Glass door",
+    "slogan"        :       "Blending the glory of royalty and imagination",
+    "pictures"      :       [
+        "royal-doors-1.jpg",
+        "royal-doors-2.jpg",
+        "royal-doors-3.jpg"
+    ],
+    "description"   :       "Whether you need an entrance, an external or internal door, or a door for your wardrobe or utility closet, the ROYAL door is ideal in any situation. At our showroom, you can buy a fully finished door that can be fitted for you, or you can have one designed and custom-built especially for your space.",
+    "size"          :       "Door + Frame 63-100 cm, Door Only 55-95 cm",
+    "categories"    :       [0,1,2,3,4]
+}

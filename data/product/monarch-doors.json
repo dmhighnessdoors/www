@@ -1,0 +1,16 @@
+{
+    "id"            :       "product/model/monarch-doors",
+    "name"          :       "Monarch doors",
+    "type"          :       "Plain door; Glass door",
+    "slogan"        :       "Inspired Design",
+    "pictures"      :       [
+        "monarch-doors-1.jpg",
+        "monarch-doors-2.jpg",
+        "monarch-doors-3.jpg",
+        "monarch-doors-4.jpg",
+        "monarch-doors-5.jpg"
+    ],
+    "description"   :       "MONARCH door adds a glazed feature panel to a front, external or internal door in way to instantly introduce a touch of class to your home. At HIGHNESS, we have a range of smart solutions for your glass doors. From single and double glazed doors to exclusively manufactured materials, our doors are designed to keep your home safe and stylish.",
+    "size"          :       "Door + Frame 57-100 cm, Door Only 50-95 cm",
+    "categories"    :       [0,1,2,3,4]
+}

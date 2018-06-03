@@ -1,0 +1,12 @@
+{
+    "id"            :       "product/model/accent-doors",
+    "name"          :       "Accent doors",
+    "type"          :       "Plain door",
+    "slogan"        :       "Unique in style & finish that can’t be imitated",
+    "pictures"      :       [
+        "accent-doors-1.jpg"
+    ],
+    "description"   :       "The ACCENT door is a rare combination of hand-crafted warmth, precision, and a dedication to architectural expression, we earned the respect of homeowners, architects and builders.",
+    "size"          :       "Door + Frame 63-80 cm, Door Only 57-75 cm",
+    "categories"    :       [0,1,2,3,4]
+}

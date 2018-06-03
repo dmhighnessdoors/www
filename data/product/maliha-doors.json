@@ -1,0 +1,13 @@
+{
+    "id"            :       "product/model/maliha-doors",
+    "name"          :       "Maliha doors",
+    "type"          :       "Plain door",
+    "slogan"        :       "Modern, Inspiration, Design, Expression starts here",
+    "pictures"      :       [
+        "maliha-doors-1.jpg",
+        "maliha-doors-2.jpg"
+    ],
+    "description"   :       "The first thing people are going to see as they enter a room is the door. So when designing a room, there is no better place to make a first impression. And when looking for the right door, you should always START WITH HIGHNESS",
+    "size"          :       "Door + Frame 55-116 cm, Door Only 55-110 cm",
+    "categories"    :       [0,1,2,3,4]
+}

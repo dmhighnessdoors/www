@@ -1,0 +1,25 @@
+{
+    "id"            :       "product/model/beaut-doors",
+    "name"          :       "Beaut doors",
+    "type"          :       "Plain door ; Glass door",
+    "slogan"        :       "Seamlessly integrating art of beauty & strength",
+    "pictures"      :       [
+        "beaut-doors-1.jpg",
+        "beaut-doors-2.jpg",
+        "beaut-doors-3.jpg",
+        "beaut-doors-4.jpg",
+        "beaut-doors-5.jpg",
+        "beaut-doors-6.jpg",
+        "beaut-doors-7.jpg",
+        "beaut-doors-8.jpg",
+        "beaut-doors-9.jpg",
+        "beaut-doors-10.jpg",
+        "beaut-doors-11.jpg",
+        "beaut-doors-12.jpg",
+        "beaut-doors-13.jpg",
+        "beaut-doors-14.jpg"
+    ],
+    "description"   :       "A thoughtful approach to home design will ensure there are no jarring notes from exterior to interior. With these internal BEAUT designs, you have the opportunity to continue a period feel established by your BEAUT traditional style door. Once again, the look of authenticity is assured by traditional style.",
+    "size"          :       "Door + Frame 65-80 cm, Door Only 60-75 cm",
+    "categories"    :       [0,1,2,3,4]
+}

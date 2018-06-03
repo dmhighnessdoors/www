@@ -1,0 +1,24 @@
+{
+    "id"            :       "product/model/wind-doors",
+    "name"          :       "Wind doors",
+    "type"          :       "Plain door; Glass door",
+    "slogan"        :       "Master craftsmanship, refined material and attention to finest design details",
+    "pictures"      :       [
+        "wind-doors-1.jpg",
+        "wind-doors-2.jpg",
+        "wind-doors-3.jpg",
+        "wind-doors-4.jpg",
+        "wind-doors-5.jpg",
+        "wind-doors-6.jpg",
+        "wind-doors-7.jpg",
+        "wind-doors-8.jpg",
+        "wind-doors-9.jpg", 
+        "wind-doors-10.jpg", 
+        "wind-doors-11.jpg",  
+        "wind-doors-12.jpg"          
+        ],
+    "description"   :       "Gone are the days when little thought was given to the design and choice of a home’s internal doors. In today’s contemporary home, creating a total look is a must. The HIGHNESS internal range picks up on some of the design themes established by their modelled doors, making them perfect for continuity of design throughout the home.
+                            Along with innovation and design, one of the great strengths of HIGHNESS Doors is our flexibility. Whilst our standard sizing will cater for most homes, HIGHNESS can also provide doors to those homes that require custom made solutions to fit specific sizing requirements. We really do have a door for everyone.",
+    "size"          :       "Door + Frame 68-90 cm, Door Only 62-84 cm",
+    "categories"    :       [0,1,2,3,4]
+}

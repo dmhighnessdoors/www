@@ -1,0 +1,12 @@
+{
+    "id"            :       "product/model/woodland-doors",
+    "name"          :       "Woodland doors",
+    "type"          :       "Plain door",
+    "slogan"        :       "Architectural harmony",
+    "pictures"      :       [
+        "woodland-doors-1.jpg"
+    ],
+    "description"   :       "The WOODLAND door works to find unity in the design and visual impact of a home's components which forms the foundation of architectural harmony, the seamless presentation that guides our work.",
+    "size"          :       "Door + Frame 63-116 cm, Door Only 58-110 cm",
+    "categories"    :       [0,1,2,3,4]
+}

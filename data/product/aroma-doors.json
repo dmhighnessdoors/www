@@ -1,0 +1,12 @@
+{
+    "id"            :       "product/model/aroma-doors",
+    "name"          :       "Aroma doors",
+    "type"          :       "Plain door",
+    "slogan"        :       "Architecturally Inspired",
+    "pictures"      :       [
+        "aroma-doors-1.jpg"
+    ],
+    "description"   :       "Our AROMA door offers luxury and unlimited custom options while providing unparalleled strength and beauty.",
+    "size"          :       "Door + Frame 63-80 cm, Door Only 57-75 cm",
+    "categories"    :       [0,1,2,3,4]
+}
