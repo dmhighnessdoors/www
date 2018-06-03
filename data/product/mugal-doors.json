@@ -1,12 +1,12 @@
 {
-    "id"            :       "/product/model/mugal-doors",
+    "id"            :       "product/model/mugal-doors",
     "name"          :       "Mugal doors",
     "type"          :       "Plain door",
-    "slogan"        :       "---",
+    "slogan"        :       "One-of-a-kind entrances for clients of significance",
     "pictures"      :       [
         "mugal-doors-1.jpg"
     ],
-    "description"   :       "----",
-    "size"          :       "-----",
+    "description"   :       "The MUGAL door is one of the best ways to add and reinforce the architectural and design details of your home/office. After decades of functional but uninspired PVC doors, our clients have loved adding this artisan touch. It's an amazing first impression. For a unified approach to your home's façade. It creates an impact that has no equal.",
+    "size"          :       "Door + Frame 63-100 cm, Door Only 57-95 cm",
     "categories"    :       [0,1,2,3,4]
 }

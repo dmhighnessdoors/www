@@ -1,7 +1,39 @@
 [
     {
-        "id":   "/product/model/mugal-doors",
+        "id":   "product/model/mugal-doors",
         "name": "Mugal doors"
+    },
+    {
+        "id":   "product/model/accent-doors",
+        "name": "Accent doors"
+    },
+    {
+        "id":   "product/model/woodland-doors",
+        "name": "Woodland doors"
+    },
+    {
+        "id":   "product/model/aroma-doors",
+        "name": "Aroma doors"
+    },
+    {
+        "id":   "product/model/royal-doors",
+        "name": "Royal doors"
+    },
+    {
+        "id":   "product/model/monarch-doors",
+        "name": "Monarch doors"
+    },
+    {
+        "id":   "product/model/wind-doors",
+        "name": "Wind doors"
+    },
+    {
+        "id":   "product/model/beaut-doors",
+        "name": "Beaut doors"
+    },
+    {
+        "id":   "product/model/maliha-doors",
+        "name": "Maliha doors"
     }
 
 ]
