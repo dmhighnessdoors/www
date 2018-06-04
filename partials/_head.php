@@ -1,8 +1,20 @@
+<?php
+    $page_title = ' | Highness doors';
+    $server_url = "http" . (($_SERVER['SERVER_PORT'] == 443) ? "s" : "") . "://" . $_SERVER['HTTP_HOST'];
+    $page_url =  $server_url . $_SERVER['REQUEST_URI'];
+    $image_url = $server_url.$HOME_URL.'images/hd/logo.jpg';
+
+    if($isProduct){
+        $page_title = $productPage['name'].$page_title;
+        $image_url = $server_url.$HOME_URL.'images/hd/products/'.$productPage['pictures'][0];
+    }
+?>
+
 <head>
 
     <!-- Basic Page Needs -->
     <meta charset="utf-8">
-    <title>Highness doors | Home</title>
+    <title><?php echo $page_title ?></title>
     <meta name="description" content="HIGHNESS the name of quality is aimed towards designing and manufacturing of highest quality Doors. We can also custom make our products to suit any size and configuration to meet our client requirements.">
     <base href="<?php echo $HOME_URL; ?>" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -19,11 +31,11 @@
     <meta name="DC.Rights" content="Highness FRP Industries">
     <meta name="DC.Language" content="en-US">
 
-    <meta property="og:title" content="Manufacturing FRP Doors and Frames" >
+    <meta property="og:title" content="<?php echo $page_title ?>" >
     <meta property="og:type" content="article" >
     
-    <meta property="og:url" content="http://www.highnessdoors.com/" >
-    <meta property="og:image" content="http://www.highnessdoors.com/images/logo.png">
+    <meta property="og:url" content="<?php echo $page_url ?>" >
+    <meta property="og:image" content="<?php echo $image_url ?>">
 
     <!-- Favicons -->
     <link rel="shortcut icon" href="images/favicon.ico">
@@ -31,6 +43,7 @@
     <!-- FONTS -->
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:100,300,400,400italic,700'>
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Patua+One:100,300,400,400italic,700'>
+    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Pompiere:400">
 
     <!-- CSS -->
     <link rel='stylesheet' href='css/global.css'>

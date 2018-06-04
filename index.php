@@ -24,7 +24,7 @@
         ?>
         <!-- Main Content -->
         <?php
-            routePrimaryContent();
+            include $partialBody;
         ?>
         <!-- Footer-->
         <?php

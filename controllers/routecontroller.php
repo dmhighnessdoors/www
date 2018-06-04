@@ -17,17 +17,26 @@
     
 
     function routePrimaryContent(){
-        global $HOME_URL,$PRODUCT_URL, $isProduct, $product;
+        global $HOME_URL,$PRODUCT_URL, $isProduct, $productPage, $partialBody;
         $currentUrl = $_SERVER['REQUEST_URI'];
 
         if($currentUrl == $HOME_URL){
-            include 'partials/_home.php';
+            $partialBody = 'partials/_home.php';
         }
         else if(strpos($currentUrl, $PRODUCT_URL) !== false){
             //Its a product url
             $isProduct = true;
-            //$product = json_decode(file_get_contents("data/products.json"), true);
-            include 'partials/_product.php';
+            $lastSlashIndex = strripos($currentUrl, '/');
+            $productId = substr($currentUrl, $lastSlashIndex+1, strlen($currentUrl));
+            $file = "data/product/".$productId.".json";
+            if(file_exists($file)){
+                $productPage = json_decode(file_get_contents("data/product/".$productId.".json"), true);
+                $partialBody = 'partials/_product.php';
+            } else {
+                //Throw a 404 error
+            }
+            
+            
         }else {
             echo '<h1>You are on some other page</h1>';
         }
@@ -40,4 +49,5 @@
 
 
     loadBaseFiles();
+    routePrimaryContent();
 ?>
