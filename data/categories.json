@@ -1,29 +1,73 @@
 [
     {
-        "id"        :       "category/bedroom-door",
-        "name"      :       "Bedroom door",
-        "label"     :       "Bedroom",
-        "products"  :       [0]
+        "id": "category/bedroom-door",
+        "name": "Bedroom door",
+        "label": "Bedroom",
+        "pictures": [
+            "bedroom-door-category-thumb.jpg",
+            "bedroom-door-category-page.jpg"
+        ],
+        "description": "Highness takes internal doors from just being a functional necessity, to a design and style statement.",
+        "products": [
+            0,
+            1,
+            2
+        ]
     },
     {
-        "id"    :       "category/main-room-door",
-        "name"  :       "Main room door",
-        "label" :       "Main room"
-
+        "id": "category/main-room-door",
+        "name": "Main room door",
+        "pictures": [
+            "bedroom-door-category-1.jpg"
+        ],
+        "label": "Main room",
+        "description": "Highness takes internal doors from just being a functional necessity, to a design and style statement.",
+        "products": [
+            0,
+            1,
+            2
+        ]
     },
     {
-        "id"    :       "category/kitchen-door",
-        "name"  :       "Kitchen door",
-    "label"     :       "Kitchen"
+        "id": "category/kitchen-door",
+        "name": "Kitchen door",
+        "pictures": [
+            "bedroom-door-category-1.jpg"
+        ],
+        "label": "Kitchen",
+        "description": "Highness takes internal doors from just being a functional necessity, to a design and style statement.",
+        "products": [
+            0,
+            1,
+            2
+        ]
     },
     {
-        "id"    :       "category/office-door",
-        "name"  :       "Office door",
-        "label"     :       "Office"
+        "id": "category/office-door",
+        "name": "Office door",
+        "pictures": [
+            "bedroom-door-category-1.jpg"
+        ],
+        "label": "Office",
+        "description": "Highness takes internal doors from just being a functional necessity, to a design and style statement.",
+        "products": [
+            0,
+            1,
+            2
+        ]
     },
     {
-        "id"    :       "category/back-yard-door",
-        "name"  :       "Back yard door",
-        "label"     :       "Back yard"
+        "id": "category/back-yard-door",
+        "name": "Back yard door",
+        "pictures": [
+            "bedroom-door-category-1.jpg"
+        ],
+        "label": "Back yard",
+        "description": "Highness takes internal doors from just being a functional necessity, to a design and style statement.",
+        "products": [
+            0,
+            1,
+            2
+        ]
     }
 ]

@@ -45,24 +45,24 @@
                                     <nav id="menu">
                                         <ul id="menu-main-menu" class="menu">
 
-                                            <li class="current-menu-item">
-                                                <a href="/"><span>Home</span></a>
+                                            <li <?php echo $isHome ? 'class="current-menu-item"' : '' ?>>
+                                                <a href="<?php echo getFullUrl('') ?>"><span>Home</span></a>
                                             </li>
-                                            <li>
-                                                <a href="/about-us"><span>About Us</span></a>
+                                            <li <?php echo $isAboutUs ? 'class="current-menu-item"' : '' ?>>
+                                                <a href="<?php echo getFullUrl('about-us') ?>"><span>About Us</span></a>
                                                 <ul class="sub-menu">
                                                     <li>
-                                                        <a href="home-modern-header.html"><span>Company</span></a>
+                                                        <a href="<?php echo getFullUrl('about-us/company') ?>"><span>Company</span></a>
                                                     </li>
                                                     <li>
-                                                        <a href="home-classic-header.html"><span>Events</span></a>
+                                                        <a href="<?php echo getFullUrl('about-us/events') ?>"><span>Events</span></a>
                                                     </li>
                                                     <li>
-                                                        <a href="index-bar.html"><span>Careers</span></a>
+                                                        <a href="<?php echo getFullUrl('about-us/careers') ?>"><span>Careers</span></a>
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li>
+                                            <li <?php echo $isCategory ? 'class="current-menu-item"' : '' ?>>
                                                 <a href="/products"><span>Categories</span></a>
                                                 <ul class="sub-menu">
                                                     <?php
@@ -78,7 +78,7 @@
                                                 </ul>
                                             </li>
 
-                                            <li>
+                                            <li <?php echo $isProduct ? 'class="current-menu-item"' : '' ?>>
                                                 <a href="/products"><span>Products</span></a>
                                                 <ul class="sub-menu">
                                                     <?php
@@ -94,7 +94,7 @@
                                                 </ul>
                                             </li>
                                         
-                                            <li>
+                                            <li <?php echo $isContactUs ? 'class="current-menu-item"' : '' ?>>
                                                 <a href="/contact-us"><span>Contact Us</span></a>
                                             
                                             </li>

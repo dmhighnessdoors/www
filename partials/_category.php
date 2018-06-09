@@ -2,7 +2,7 @@
 <div id="Subheader">
     <div class="container">
         <div class="column one">
-            <h1 class="title"><?php echo $productPage['name'] ?></h1>
+            <h1 class="title"><?php echo $categoryPage['name'] ?></h1>
             <!--BreadCrumbs area-->
             <ul class="breadcrumbs">
                 <li>
@@ -12,13 +12,13 @@
                     </span>
                 </li>
                 <li>
-                    <a href="<?php echo getFullUrl('products') ?>">Products</a>
+                    <a href="<?php echo getFullUrl('categories') ?>">Categories</a>
                     <span>
                         <i class="icon-right-open"></i>
                     </span>
                 </li>
                 <li>
-                    <a href="<?php echo getFullUrl($productPage['id']) ?>"><?php echo $productPage['name'] ?></a>
+                    <a href="<?php echo getFullUrl($categoryPage['id']) ?>"><?php echo $categoryPage['name'] ?></a>
                 </li>
             </ul>
         </div>
@@ -45,41 +45,24 @@
                             <!-- One full width row-->
                             <div class="column one column_column">
                                 <div class="column_attr ">
-                                    <div class="aligncenter">
-                                        <div class="google_font flv_style_60">
-                                            <?php echo $productPage['slogan']; ?>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            
-                            <div class="column one column_column">
-                                <div class="column_attr ">
-                                    <h5>Description</h5> <?php echo $productPage['description']; ?>
+                                    <h5>Description</h5> <?php echo $categoryPage['description']; ?>
                                 </div>
                             </div>
 
                             <div class="column one column_column">
                                 <div class="column_attr ">
-                                    <h5>Size variations</h5> <?php echo $productPage['size']; ?>
-                                </div>
-                            </div>
-
-                            <div class="column one column_column">
-                                <div class="column_attr ">
-                                    <h5>Suitable for</h5> 
+                                    <h5>Products</h5> 
                                     <?php 
-                                    foreach($productPage['categories'] as $categoryIndex)
+                                    foreach($categoryPage['products'] as $productIndex)
                                     {
-                                        $productCategory = $categories[$categoryIndex];
+                                        $categoryProduct = $products[$productIndex];
                                         ?>
 
-                                            <a class="button button_left button_green button_js kill_the_icon" href="<?php echo getFullUrl($productCategory['id'])?>">
+                                            <a class="button button_left button_green button_js kill_the_icon" href="<?php echo getFullUrl($categoryProduct['id'])?>">
                                                 <span class="button_icon">
                                                     <i class="icon-heart-fa"></i>
                                                 </span>
-                                                <span class="button_label"><?php echo $productCategory['label']; ?></span>
+                                                <span class="button_label"><?php echo $categoryProduct['name']; ?></span>
                                             </a>
 
                                         <?php
@@ -88,8 +71,11 @@
                                     }; 
                                     
                                     ?>
+
                                 </div>
                             </div>
+
+                            
                            
                         </div>
                     </div>

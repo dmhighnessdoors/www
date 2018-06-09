@@ -7,6 +7,9 @@
     if($isProduct){
         $page_title = $productPage['name'].$page_title;
         $image_url = $server_url.$HOME_URL.'images/hd/products/'.$productPage['pictures'][0];
+    }else if($isCategory){
+        $page_title = $categoryPage['name'].$page_title;
+        $image_url = $server_url.$HOME_URL.'images/hd/category/'.$categoryPage['pictures'][0];
     }
 ?>
 
