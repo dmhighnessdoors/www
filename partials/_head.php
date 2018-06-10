@@ -10,6 +10,9 @@
     }else if($isCategory){
         $page_title = $categoryPage['name'].$page_title;
         $image_url = $server_url.$HOME_URL.'images/hd/category/'.$categoryPage['pictures'][0];
+    }else if($isPage){
+        $page_title = $page['title'].$page_title;
+        $image_url = $server_url.$HOME_URL.'images/hd/logo.jpg';
     }
 ?>
 

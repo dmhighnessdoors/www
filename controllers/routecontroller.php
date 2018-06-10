@@ -19,11 +19,11 @@
 
     function routePrimaryContent(){
         global $HOME_URL,$PRODUCT_URL, $isProduct, $productPage, $partialBody, $isCategory, $categoryPage, $CATEGORY_URL, $categories;
-        global $isHome, $isAboutUs, $isContactUs;
+        global $isHome, $isAboutUs, $isContactUs, $page, $isPage;
         $currentUrl = $_SERVER['REQUEST_URI'];
 
         if($currentUrl == $HOME_URL){
-            $partialBody = 'partials/_home.php';
+            $partialBody = 'template/_home.php';
             $isHome = true;
         }
         else if(strpos($currentUrl, $PRODUCT_URL) !== false){
@@ -34,7 +34,7 @@
             $file = "data/product/".$productId.".json";
             if(file_exists($file)){
                 $productPage = json_decode(file_get_contents($file), true);
-                $partialBody = 'partials/_product.php';
+                $partialBody = 'template/_product.php';
             } else {
                 //Throw a 404 error
             }
@@ -50,7 +50,7 @@
                 if($category["id"] == 'category/'.$categoryId){
                     $categoryPage = $category;
                     $isCategory = true;
-                    $partialBody = 'partials/_category.php';
+                    $partialBody = 'template/_category.php';
                     break;
                 }
             }
@@ -61,7 +61,17 @@
                                     
             
         }else {
-            echo '<h1>You are on some other page</h1>';
+            $urlParts =  explode($HOME_URL, $currentUrl);
+            unset($urlParts[0]);
+            $pageId = join('/', $urlParts);
+            $file = "data/pages/".$pageId.".json";
+            if(file_exists($file)){
+                $page = json_decode(file_get_contents($file), true);
+                $partialBody = 'template/_page.php';
+                $isPage = true;
+            } else {
+                //Throw a 404 error
+            }
         }
     }
 
