@@ -3,19 +3,21 @@
     <link rel='stylesheet' href='../css/structure.css'>
     <link rel='stylesheet' id='style-static' href='../css/be_style.css'>
     <link rel='stylesheet' href='../css/custom.css'>
+    <script src="../js/jquery-2.1.4.min.js"></script>
 
     <!-- Revolution Slider -->
     <link rel="stylesheet" href="../plugins/rs-plugin/css/settings.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.3.3/ace.js"></script>
 
 
+<style type="text/css" media="screen">
+    #editor { 
+        width:100%;
+        height:500px;
+    }
+</style>
 
-<!-- Include external CSS. -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.25.0/codemirror.min.css">
- 
-    <!-- Include Editor style. -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/2.8.1/css/froala_editor.pkgd.min.css" rel="stylesheet" type="text/css" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/2.8.1/css/froala_style.min.css" rel="stylesheet" type="text/css" />
+
 
 
 <?php
@@ -43,6 +45,10 @@
         </span>
         <br/>
 
+        <div id="editor">
+
+        </div>
+
         <input type="hidden" name="pageId" value="<?php echo $pageId; ?>" />
 
 
@@ -51,13 +57,13 @@
 </form>
 
 
-<!-- Include external JS libs. -->
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.25.0/codemirror.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.25.0/mode/xml/xml.min.js"></script>
- 
-    <!-- Include Editor JS files. -->
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/froala-editor/2.8.1/js/froala_editor.pkgd.min.js"></script>
- 
-    <!-- Initialize the editor. -->
-    <script> $(function() { $('textarea').froalaEditor() }); </script>
+<script>
+    var editor = ace.edit("editor");
+    editor.setTheme("ace/theme/monokai");
+    editor.session.setMode("ace/mode/html");
+    editor.setValue(<?php echo json_encode($page['body']) ?>);
+
+    editor.getSession().on("change", function () {
+        $('#body').val(editor.getSession().getValue());
+    });
+</script>
