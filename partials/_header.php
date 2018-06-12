@@ -48,7 +48,7 @@
                                             <li <?php echo $isHome ? 'class="current-menu-item"' : '' ?>>
                                                 <a href="<?php echo getFullUrl('') ?>"><span>Home</span></a>
                                             </li>
-                                            <li <?php echo strpos($_SERVER['REQUEST_URI'],'/about-us') > 0 ? 'class="current-menu-item"' : '' ?>>
+                                            <li <?php echo strpos($_SERVER['REQUEST_URI'],'about-us') > 0 ? 'class="current-menu-item"' : '' ?>>
                                                 <a href="<?php echo getFullUrl('about-us') ?>"><span>About Us</span></a>
                                                 <ul class="sub-menu">
                                                     <li>
@@ -94,7 +94,7 @@
                                                 </ul>
                                             </li>
                                         
-                                            <li <?php echo strpos($_SERVER['REQUEST_URI'],'/contact-us') > 0 ? 'class="current-menu-item"' : '' ?>>
+                                            <li <?php echo strpos($_SERVER['REQUEST_URI'],'contact-us') > 0 ? 'class="current-menu-item"' : '' ?>>
                                                 <a href="<?php echo getFullUrl('contact-us') ?>"><span>Contact Us</span></a>
                                             
                                             </li>
