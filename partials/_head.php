@@ -61,5 +61,6 @@
     <link rel="stylesheet" href="plugins/rs-plugin/css/settings.css">
 
     <script src="js/jquery-2.1.4.min.js"></script>
+    <script src="js/carousel.js"></script>
 
 </head>

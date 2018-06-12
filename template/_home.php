@@ -1,58 +1,25 @@
 <div id="Content"> 
-    <!-- Revolution slider area-->
-    <div class="mfn-main-slider" id="mfn-rev-slider">
-        <div id="rev_slider_34_2_wrapper" class="rev_slider_wrapper fullwidthbanner-container flv_rev_14">
-            <div id="rev_slider_34_2" class="rev_slider fullwidthabanner flv_rev_13">
-                <ul>
-                    <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-thumb="images/slide-home-2-thumb.jpg" data-saveperformance="off">
-                        <img src="images/hd/enternace_doors_bkg.jpg" data-bgposition="right top" data-bgfit="cover" data-bgrepeat="no-repeat">
-
-                        <div class="tp-caption large_dark sft tp-resizeme flv_rev_4" data-x="left" data-hoffset="50" data-y="center" data-voffset="-77"
-                            data-speed="500" data-start="2000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none"
-                            data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
-                            <span class='themecolor'>100+</span> enterance doors
-                            <br> capturing all imaginations.
-                        </div>
-                        <div class="tp-caption mfnrs_home_small sfl tp-resizeme flv_rev_2" data-x="left" data-hoffset="50" data-y="center" data-voffset="48"
-                            data-speed="500" data-start="2200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none"
-                            data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
-                            <span class="flv_rev_3">The largest collection of doors
-                                <br> with durable designs</span>
-                        </div>
-                        <div class="tp-caption sfb tp-resizeme flv_rev_1" data-x="left" data-hoffset="50" data-y="center" data-voffset="140" data-speed="500"
-                            data-start="2500" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1"
-                            data-endelementdelay="0.1" data-endspeed="300">
-                            <a href='products/entrance-doors' class='tp-button button button_theme'>View Enternace doors</a>
-                        </div>
-                    </li>
-                    <li data-transition="fade" data-slotamount="7" data-masterspeed="300" data-thumb="images/slide-home-2-thumb.jpg" data-saveperformance="off">
-                        <img src="images/hd/enternace_doors_bkg.jpg" data-bgposition="right top" data-bgfit="cover" data-bgrepeat="no-repeat">
-
-                        <div class="tp-caption large_dark sft tp-resizeme flv_rev_4" data-x="left" data-hoffset="50" data-y="center" data-voffset="-77"
-                            data-speed="500" data-start="2000" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none"
-                            data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
-                            <span class='themecolor'>100+</span> doors
-                            <br> capturing all imaginations.
-                        </div>
-                        <div class="tp-caption mfnrs_home_small sfl tp-resizeme flv_rev_2" data-x="left" data-hoffset="50" data-y="center" data-voffset="48"
-                            data-speed="500" data-start="2200" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none"
-                            data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
-                            <span class="flv_rev_3">The largest collection of doors
-                                <br> with durable designs</span>
-                        </div>
-                        <div class="tp-caption sfb tp-resizeme flv_rev_1" data-x="left" data-hoffset="50" data-y="center" data-voffset="140" data-speed="500"
-                            data-start="2500" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1"
-                            data-endelementdelay="0.1" data-endspeed="300">
-                            <a href='products/entrance-doors' class='tp-button button button_theme'>View Enternace doors</a>
-                        </div>
-                    </li>
-                </ul>
-                <div class="tp-bannertimer tp-bottom flv_vis_hid"></div>
-            </div>
-        </div>
+    
+    <!-- Carousel implementation -->
+    <div class="homeCarousel">
+        <div class="mySlide"><img src="<?php echo getFullUrl('images/hd/carousel/home/1.png');?>" /></div>
+        <div class="mySlide"><img src="<?php echo getFullUrl('images/hd/carousel/home/2.png');?>" /></div>
     </div>
 
-    
+    <script>
+        $(document).ready(function(){
+            $('.homeCarousel').jR3DCarousel({
+                slideClass: 'mySlide',
+                height: 400,
+                animationInterval: 7000,
+                autoplay: true,
+                animation: 'slide'
+            });
+        });
+        
+    </script> 
+
+    <!-- Carousel implementation ends here -->
     <div class="content_wrapper clearfix">
         <div class="sections_group">
             <div class="entry-content">
