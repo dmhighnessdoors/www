@@ -48,7 +48,7 @@
                                             <li <?php echo $isHome ? 'class="current-menu-item"' : '' ?>>
                                                 <a href="<?php echo getFullUrl('') ?>"><span>Home</span></a>
                                             </li>
-                                            <li <?php echo $isAboutUs ? 'class="current-menu-item"' : '' ?>>
+                                            <li <?php echo strpos($_SERVER['REQUEST_URI'],'/about-us') > 0 ? 'class="current-menu-item"' : '' ?>>
                                                 <a href="<?php echo getFullUrl('about-us') ?>"><span>About Us</span></a>
                                                 <ul class="sub-menu">
                                                     <li>
@@ -63,7 +63,7 @@
                                                 </ul>
                                             </li>
                                             <li <?php echo $isCategory ? 'class="current-menu-item"' : '' ?>>
-                                                <a href="/products"><span>Categories</span></a>
+                                                <a href="<?php echo getFullUrl('categories') ?>"><span>Categories</span></a>
                                                 <ul class="sub-menu">
                                                     <?php
                                                         foreach($categories as $category)
@@ -79,7 +79,7 @@
                                             </li>
 
                                             <li <?php echo $isProduct ? 'class="current-menu-item"' : '' ?>>
-                                                <a href="/products"><span>Products</span></a>
+                                                <a href="<?php echo getFullUrl('products') ?>"><span>Products</span></a>
                                                 <ul class="sub-menu">
                                                     <?php
                                                         foreach($products as $product)
@@ -94,56 +94,14 @@
                                                 </ul>
                                             </li>
                                         
-                                            <li <?php echo $isContactUs ? 'class="current-menu-item"' : '' ?>>
-                                                <a href="/contact-us"><span>Contact Us</span></a>
+                                            <li <?php echo strpos($_SERVER['REQUEST_URI'],'/contact-us') > 0 ? 'class="current-menu-item"' : '' ?>>
+                                                <a href="<?php echo getFullUrl('contact-us') ?>"><span>Contact Us</span></a>
                                             
                                             </li>
                                         </ul>
                                     </nav><a class="responsive-menu-toggle" href="#"><i class="icon-menu"></i></a>
                                 </div>
-                                <!-- Secondary menu area - only for certain pages -->
-                                <div class="secondary_menu_wrapper">
-                                    <nav id="secondary-menu" class="menu-secondary-menu-container">
-                                        <ul id="menu-secondary-menu" class="secondary-menu">
-                                            <li class="menu-item-1568">
-                                                <a href="index.html">Home</a>
-                                            </li>
-                                            <li class="menu-item-1573">
-                                                <a href="contact.html">Contact</a>
-                                            </li>
-                                            <li class="menu-item-1574">
-                                                <a href="shop.html">Shop</a>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item-1569">
-                                                        <a href="#">Shopping Cart</a>
-                                                    </li>
-                                                    <li class="menu-item-1570">
-                                                        <a href="#">Checkout</a>
-                                                    </li>
-                                                    <li class="menu-item-1571">
-                                                        <a href="#">My Account</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item-1583">
-                                                <a target="_blank" href="http://bit.ly/1M6lijQ">Buy it now !</a>
-                                            </li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                                <!-- Banner area - only for certain pages-->
-                                <div class="banner_wrapper">
-                                    <a href="#" target="_blank"><img src="images/468x60.gif" alt="">
-                                    </a>
-                                </div>
-                                <!-- Header Searchform area-->
-                                <div class="search_wrapper">
-                                    <form method="get" action="#">
-                                        <i class="icon_search icon-search"></i><a href="#" class="icon_close"><i class="icon-cancel"></i></a>
-                                        <input type="text" class="field" name="s" placeholder="Enter your search" />
-                                        <input type="submit" class="submit" value="" />
-                                    </form>
-                                </div>
+                                
                             </div>
                             
                         </div>
