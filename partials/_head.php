@@ -56,11 +56,13 @@
     <link rel='stylesheet' href='css/structure.css'>
     <link rel='stylesheet' id='style-static' href='css/be_style.css'>
     <link rel='stylesheet' href='css/custom.css'>
+    <link rel='stylesheet' href='css/hd/slippry.css'>
 
     <!-- Revolution Slider -->
     <link rel="stylesheet" href="plugins/rs-plugin/css/settings.css">
 
     <script src="js/jquery-2.1.4.min.js"></script>
-    <script src="js/carousel.js"></script>
+
+    <script src="js/hd/slippry.min.js"></script>
 
 </head>

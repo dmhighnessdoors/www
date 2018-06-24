@@ -1,20 +1,33 @@
 <div id="Content"> 
     
     <!-- Carousel implementation -->
-    <div class="homeCarousel">
-        <div class="mySlide"><img src="<?php echo getFullUrl('images/hd/carousel/home/1.png');?>" /></div>
-        <div class="mySlide"><img src="<?php echo getFullUrl('images/hd/carousel/home/2.png');?>" /></div>
-    </div>
+    <ul id="out-of-the-box-demo">
+        
+    <?php
+        foreach($products as $product)
+        {
+            $last_slash = strripos($product['id'], '/');
+            $product_id = substr($product['id'], $last_slash+1, strlen($product['id']));
+    ?>
+        <li>
+            <a href="<?php echo getFullUrl($product['id']) ?>">
+            <img src="images/hd/carousel/home/<?php echo $product_id; ?>.png" alt="<?php echo $product['name']; ?> for more details click here...">
+            </a>
+        </li>
+        
+        
+    <?php
+        }
+    ?>
+       
+    </ul>
+
+
+    
 
     <script>
         $(document).ready(function(){
-            $('.homeCarousel').jR3DCarousel({
-                slideClass: 'mySlide',
-                height: 400,
-                animationInterval: 7000,
-                autoplay: true,
-                animation: 'slide'
-            });
+            $('#out-of-the-box-demo').slippry();
         });
         
     </script> 
