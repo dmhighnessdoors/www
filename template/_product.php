@@ -32,6 +32,8 @@
         <div class="content_wrapper clearfix">
             <div class="sections_group">
                 <div class="entry-content">
+
+                <img style="width:100%;" src="<?php echo $rootUrl; ?>images/hd/carousel/home/<?php echo $productId; ?>.png" />
                 
                     <div class="section" id="columns flv_sections_16">
                         <div class="section_wrapper clearfix">

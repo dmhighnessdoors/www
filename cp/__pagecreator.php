@@ -40,10 +40,7 @@
             <input type="text" name="title" id="title" value="<?php echo $page['title'] ?>" aria-required="true" aria-invalid="false" placeholder="Enter page title">
         </span>
         <br/>
-        <span> 								
-            <textarea name="body" cols="40" id="body" rows="15" aria-required="true" aria-invalid="false" placeholder="Enter body html"><?php echo $page['body'] ?></textarea>
-        </span>
-        <br/>
+        
 
         <div id="editor">
 
@@ -64,6 +61,21 @@
     editor.setValue(<?php echo json_encode($page['body']) ?>);
 
     editor.getSession().on("change", function () {
-        $('#body').val(editor.getSession().getValue());
+        //$('#body').val(editor.getSession().getValue());
+    });
+
+
+        $( "#pageform" ).submit(function( event ) {
+            var data =  $( "#pageform" ).serializeArray();
+            data.push({name: 'body',      value: editor.getSession().getValue()})
+            $.ajax({
+                type: 'POST',
+                url:  '__pageupdate.php',
+                data:  data,
+                dataType: 'json'
+            }).done(function(data) {
+                alert('page updated');
+            });
+        event.preventDefault();
     });
 </script>

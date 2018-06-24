@@ -12,6 +12,6 @@ $fp = fopen($file, 'w');
 fwrite($fp, json_encode($content));
 fclose($fp);
 
-header("Location: __pagecreator.php?page-id=".$pageId);
+//header("Location: __pagecreator.php?page-id=".$pageId);
 die();
 ?>

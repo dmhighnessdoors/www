@@ -3,6 +3,7 @@
     $server_url = "http" . (($_SERVER['SERVER_PORT'] == 443) ? "s" : "") . "://" . $_SERVER['HTTP_HOST'];
     $page_url =  $server_url . $_SERVER['REQUEST_URI'];
     $image_url = $server_url.$HOME_URL.'images/hd/logo.jpg';
+    $rootUrl = $server_url.$HOME_URL;
 
     if($isProduct){
         $page_title = $productPage['name'].$page_title;
@@ -44,7 +45,7 @@
     <meta property="og:image" content="<?php echo $image_url ?>">
 
     <!-- Favicons -->
-    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="shortcut icon" href="<?php echo $rootUrl;?>images/favicon.ico">
 
     <!-- FONTS -->
     <link rel='stylesheet' href='http://fonts.googleapis.com/css?family=Roboto:100,300,400,400italic,700'>
@@ -64,5 +65,15 @@
     <script src="js/jquery-2.1.4.min.js"></script>
 
     <script src="js/hd/slippry.min.js"></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-119144380-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-119144380-1');
+    </script>
 
 </head>

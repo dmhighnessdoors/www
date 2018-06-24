@@ -20,6 +20,7 @@
     function routePrimaryContent(){
         global $HOME_URL,$PRODUCT_URL, $isProduct, $productPage, $partialBody, $isCategory, $categoryPage, $CATEGORY_URL, $categories;
         global $isHome, $isAboutUs, $isContactUs, $page, $isPage;
+        global $productId;
         $currentUrl = $_SERVER['REQUEST_URI'];
 
         if($currentUrl == $HOME_URL){
